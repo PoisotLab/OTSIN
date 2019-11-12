@@ -102,7 +102,7 @@ function fitM(P::AbstractMatrix; fix_a::Bool=true, fix_b::Bool=true,
 end
 
 # loss over several observed frequency matrices
-function loss(M, Ps::Array{M, 1} where M <: AbstractMatrix,
+function global_loss(M, Ps::Array{M, 1} where M <: AbstractMatrix,
                 fix_a::Bool, fix_b::Bool;
                 γ=1e-2,
                 reg::Regularization=L2(),
@@ -138,7 +138,7 @@ function fitM(Ps::Array{M, 1} where M <: AbstractMatrix;
                 reg::Regularization=L2(),
                 maxitter::Int=20,
                 ϵ::Real=1e-4, usegrad=true)
-    l = M -> loss(M, Ps, fix_a, fix_b, γ=γ, reg=reg,
+    l = M -> global_loss(M, Ps, fix_a, fix_b, γ=γ, reg=reg,
                         maxitter=maxitter, ϵ=ϵ)
     dM = similar(first(Ps))
     if usegrad
@@ -176,7 +176,7 @@ function fitMsgd(Ps::Array{M, 1} where M <: AbstractMatrix;
                 α::Real=0.1,
                 β::Real=0.8,
                 nsteps::Real=100)  # momentum parameter)
-    global_loss = M -> loss(M, Ps, fix_a, fix_b, γ=γ, reg=reg,
+    global_loss = M -> global_loss(M, Ps, fix_a, fix_b, γ=γ, reg=reg,
                                     maxitter=maxitter, ϵ=ϵ)
     losses = zeros(nsteps)
     ΔM = similar(first(Ps))

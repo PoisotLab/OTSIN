@@ -49,6 +49,8 @@ function optimaltransport_(M::AbstractMatrix, a::AbstractVector, b::AbstractVect
     return Q
 end
 
+
+
 function optimaltransport(M::AbstractMatrix,
                 a::Union{AbstractVector,Nothing}=nothing,
                 b::Union{AbstractVector,Nothing}=nothing;
