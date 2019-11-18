@@ -15,18 +15,14 @@ end
 
 Computes the relative entropy of P to Q.
 """
-function relative_entropy(P, Q)
-    return - sum(P .* log.(Q))
-end
+relative_entropy(P, Q) = - sum(P .* log.(Q))
 
 """
     KL(P, Q)
 
 Computes the Kullback-Leibler divergence of P to Q
 """
-function KL(P, Q)
-    return relative_entropy(P, Q) - entropy(P)
-end
+KL(P, Q) = relative_entropy(P, Q) - entropy(P)
 
 
 """

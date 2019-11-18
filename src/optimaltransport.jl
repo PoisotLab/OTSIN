@@ -49,6 +49,41 @@ function optimaltransport_(M::AbstractMatrix, a::AbstractVector, b::AbstractVect
     return Q
 end
 
+function h(A, x, n=10)
+    res = exp.(x)
+    for i in 1:n
+        res = A * x
+    end
+    return sum(res.^2)
+end
+
+Ps = [rand(10, 20) |> x -> x/sum(x) for i in 1:11]
+M = randn(10, 20)
+A = hcat([sum(P, dims=2) for P in Ps]...)
+B = hcat([sum(P, dims=1)' for P in Ps]...)
+
+"""Parallel version of optimal transport"""
+function optimaltransport(M::AbstractMatrix, A::AbstractMatrix, B::AbstractMatrix;
+                        λ::Real=1.0, maxitter::Int=10, ϵ::Real=1e-5)
+    K = exp.(λ * M)
+    U, V = A, B
+    for itter in 1:maxitter
+        U = A ./ (K * V)
+        V = B ./ (K' * U)
+    end
+    return U, V
+end
+
+function par_kl(Ps, M, U, V)
+    #Q = similar(first(Ps))
+    K = exp.(M)
+    l = 0.0
+    for (i, P) in enumerate(Ps)
+        Q = Diagonal(U[:,i]) * K * Diagonal(V[:,i])
+        l += relative_entropy(P, Q)
+    end
+    return l
+end
 
 
 function optimaltransport(M::AbstractMatrix,

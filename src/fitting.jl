@@ -120,6 +120,75 @@ function global_loss(M, Ps::Array{M, 1} where M <: AbstractMatrix,
     return l
 end
 
+"""
+    parallel_cross_entropy(M, A, B, Ps; maxitter::Integer=20)
+
+Compute the cross-entropy compared to optimal transport on a series of interaction
+distributions.
+"""
+function parallel_cross_entropy(M::AbstractMatrix,
+            Ps::Array{M, 1} where M <: AbstractMatrix;
+            A::AbstractMatrix,
+            B::AbstractMatrix,
+            maxitter::Integer=20)
+    K = exp.(M)
+    # perform Sinkhorn iterations
+    U, V = A, B
+    for itter in 1:maxitter
+        U = A ./ (K * V)  # fix row marginals
+        V = B ./ (K' * U)  # fix column marginals
+    end
+    # compute cross-entropy
+    c = 0
+    for Pₒ in Ps
+        c -= sum(Pₒ .* M)
+    end
+    c -= sum(A .* log.(U))
+    c -= sum(B .* log.(V))
+    return c
+end
+
+
+function parallel_cross_entropy_A(M::AbstractMatrix,
+            Ps::Array{M, 1} where M <: AbstractMatrix;
+            A::AbstractMatrix)
+    K = exp.(M)
+    U = A ./ sum(K, dims=2)  # fix row marginals
+    # compute cross-entropy
+    c = 0.0
+    for Pₒ in Ps
+        c -= sum(Pₒ .* M)
+    end
+    c -= sum(A .* log.(U))
+    return c
+end
+
+function parallel_cross_entropy_B(M::AbstractMatrix,
+            Ps::Array{M, 1} where M <: AbstractMatrix;
+            B::AbstractMatrix)
+    K = exp.(M)
+    V = B ./ sum(K', dims=2)  # fix row marginals
+    # compute cross-entropy
+    c = 0.0
+    for Pₒ in Ps
+        c -= sum(Pₒ .* M)
+    end
+    c -= sum(B .* log.(V))
+    return c
+end
+
+
+function parallel_cross_entropy_free(M::AbstractMatrix,
+            Ps::Array{M, 1} where M <: AbstractMatrix)
+    logδ = exp.(M) |> sum |> log
+    c = 0.0
+    for Pₒ in Ps
+        c -= sum(Pₒ .* M) - logδ
+    end
+    return c
+end
+
+
 
 """
     fitM(Ps::Array{M, 1} where M <: AbstractMatrix,
@@ -129,25 +198,28 @@ end
                     maxitter::Int=100, ϵ::Real=1e-5)
 
 Fit a utility matrix `M` to a collection of observed probability matrices `Ps=[Pi]`.
-The parameters `fix_a` and `fix_b` determine whether the marginals should be
-fixed.
 """
-function fitM(Ps::Array{M, 1} where M <: AbstractMatrix;
-                fix_a::Bool, fix_b::Bool,
+function fitM(Ps::Array{M, 1} where M <: AbstractMatrix; fix_a=true, fix_b=true,
                 γ=1e-2,
                 reg::Regularization=L2(),
-                maxitter::Int=20,
-                ϵ::Real=1e-4, usegrad=true)
-    l = M -> global_loss(M, Ps, fix_a, fix_b, γ=γ, reg=reg,
-                        maxitter=maxitter, ϵ=ϵ)
-    dM = similar(first(Ps))
-    if usegrad
-        ∇l!(dM, M) = dM .= l'(M)
-        return Optim.minimizer(optimize(l, ∇l!, zero(first(Ps)), BFGS()))
+                maxitter::Int=20)
+    # compute marginals
+    A, B = marginals(Ps)
+    if fix_a && fix_b
+        l = M -> parallel_cross_entropy(M, Ps, A=A, B=B, maxitter=maxitter) + γ * r(M, reg)
+    elseif fix_a
+        l = M -> parallel_cross_entropy_A(M, Ps, A=A) + γ * r(M, reg)
+    elseif fix_b
+        l = M -> parallel_cross_entropy_B(M, Ps, B=B) + γ * r(M, reg)
     else
-        return Optim.minimizer(optimize(l, zero(first(Ps)), BFGS()))
+        l = M -> parallel_cross_entropy_free(M, Ps) + γ * r(M, reg)
     end
+    dM = similar(first(Ps))
+    ∇l!(dM, M) = dM .= l'(M)
+    return Optim.minimizer(optimize(l, ∇l!, 0.01randn(size(first(Ps))), BFGS()))
 end
+
+
 
 using StatsBase: sample
 
