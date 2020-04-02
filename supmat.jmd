@@ -1,0 +1,328 @@
+---
+title : OTSIN supplementary materials
+author : Michiel Stock, Timothée Poisot, Bernard De Baets
+date: April 2020
+---
+
+
+# Introduction
+
+In this document, we provide some background to methods discussed in our work 'Optimal transportation theory for species interaction networks'. Rather than relying on pseudocode, we offer a basic implementation of the methods in the Julia language. The precise syntax should allow the reader to understand the technical details, while still allowing to run the examples. We have written this document in a tutorial-like style. For the code used for the experiments in our work, we refer to the associated Github repo. We recommend using this code for researchers wishing to use the proposed methodology for their purposes.
+
+# Example data
+
+We use a small plant-seed dispenser network for illustration purposes (http://journals.cambridge.org/action/displayJournal?jid=TRO).
+
+```julia
+Y =    [52    7    3    1    1    3    0    1    0    0    0
+    18    16    3    10    7    0    0    1    0    0    1
+    26    7    13    0    1    3    0    0    0    0    0
+    9    11    5    0    0    0    3    0    0    0    0
+    13    2    6    2    2    1    0    0    1    1    0
+    21    0    1    1    2    0    0    0    0    0    0
+    6    3    1    1    0    0    2    0    0    0    0
+    0    0    3    0    0    4    0    0    0    0    0
+    3    2    0    0    0    0    0    0    0    0    0
+    1    2    1    0    0    0    0    0    0    0    0
+    0    1    0    2    0    0    0    0    0    0    0
+    1    1    0    1    0    0    0    0    0    0    0
+    2    0    0    0    0    0    0    0    0    0    0];
+```
+We can turn this in the observed coupling $P$ with the associated marginals $\mathbf{a}$ and $\mathbf{b}$.
+```julia
+P = Y / sum(Y);
+
+a, b = sum(P, dims=2), sum(P, dims=1);
+```
+
+We do not have a utility matrix $M$. Let us suppose that interactions that occur twice have a utility of 1 and 0 else wise. In practice, this matrix is known based on expert knowledge, or has to be fitted using the coupling.
+
+```julia
+M = 1.0(Y .>= 1)
+```
+
+```julia; echo=false
+using Plots
+plot(heatmap(P, title="observed coupling P"),
+heatmap(M, title="assumed utility M"))
+```
+
+# Computing the optimal transportation
+
+Given a utility matrix $M$, we can compute observed couplings $Q$, depending on whether we keep both $\mathbf{a}$ and $\mathbf{b}$ fixed, only $\mathbf{a}$, only $\mathbf{b}$ or none.
+
+ADD TABLE here
+
+## No marginals fixed
+
+When no marginals are fixed, the observed coupling is just the softmax:
+
+```julia
+function optimaltransport_(M; λ=1)
+    Q = exp.(λ * M)
+    Q = Q ./ sum(Q)  # normalize
+    return Q
+end
+```
+
+## One marginal fixed
+
+When one of the two marginals are given, the rows or columns of $Q$ have to be scaled accordingly.
+
+```julia
+function optimaltransport_a(M; a, λ=1)
+    Q = exp.(λ * M)
+    Q = Q .* (a ./ sum(Q, dims=2))  # normalize the rows
+    return Q
+end
+```
+
+```julia
+function optimaltransport_b(M; b, λ=1)
+    Q = exp.(λ * M)
+    Q = Q .* (b ./ sum(Q, dims=1))  # normalize the columns
+    return Q
+end
+```
+
+## Both marginals are fixed
+
+When both marginals are fixed, we have to apply the Sinkhorn algorithm. Because this algorithm uses iterative updates, we have to specify a tolerance parameter `ϵ` to determine convergence.
+
+```julia
+function optimaltransport_ab(M; a, b, λ=1, ϵ=1e-8, maxiter=100)
+    Q = exp.(λ * M)
+    iter = 0
+    while maximum(abs.(sum(Q, dims=2) .- a)) > ϵ  # check convergence
+        iter += 1
+        Q = Q .* (a ./ sum(Q, dims=2))  # normalize the rows
+        Q = Q .* (b ./ sum(Q, dims=1))  # normalize the columns
+        if iter >= maxiter
+            return Q
+        end
+    end
+    return Q
+end
+```
+
+## Synthesis
+
+We can aggregate the different version of optimal transportation in a single function, using Julia's dispatch system.
+
+```julia
+function optimaltransport(M::Matrix; a::Union{Matrix,Nothing}=nothing,
+                        b::Union{Matrix,Nothing}=nothing, λ::Real=1, ϵ::Real=1e-8)
+        if a isa Nothing && b isa Nothing
+                    return optimaltransport_(M, λ=λ)
+        elseif b isa Nothing
+                    return optimaltransport_a(M, a=a, λ=λ)
+        elseif a isa Nothing
+                    return optimaltransport_b(M, b=b, λ=λ)
+        else
+                    return optimaltransport_ab(M, a=a, b=b, λ=λ, ϵ=ϵ)
+        end
+end
+```
+
+## Comparision
+
+We can compare all versions.
+
+```julia; term=true
+Q = optimaltransport(M)
+Qa = optimaltransport(M, a=a)
+Qb = optimaltransport(M, b=b)
+Qab = optimaltransport(M, a=a, b=b)
+```
+
+```julia; echo=false
+plot(
+    heatmap(Q, title="Q (free)"),
+    heatmap(Qa, title="Q (a fixed)"),
+    heatmap(Qb, title="Q (b fixed)"),
+    heatmap(Qab, title="Q (a, b fixed)")
+)
+```
+
+# Assessing the effects of changing species distributions
+
+Suppose there is a function $f : U(\mathbf{a},\mathbf{b})\rightarrow \mathbb{R}$ that depends on the coupling, then we can compute
+$$
+\nabla_{\mathbf{a}, \mathbf{b}} f(Q^\star_{\mathbf{a}, \mathbf{b}}) = \left(\left[\frac{\partial f(Q^\star_{\mathbf{a}, \mathbf{b}})}{\partial a_i}\right], \left[\frac{\partial f(Q^\star_{\mathbf{a}, \mathbf{b}})}{\partial b_j}\right]\right)\,
+$$
+for normalized $\mathbf{a}$ and $\mathbf{b}$. Here, there are necessary constraint that $\sum_i (\nabla_{\mathbf{a}} f(Q^\star_{\mathbf{a}, \mathbf{b}}))_i=0$ and $\sum_j (\nabla_{\mathbf{b}} f(Q^\star_{\mathbf{a}, \mathbf{b}}))_j=0$. These give the effect of an infinitesimal change in the species density on the functional $f$.
+
+```julia
+using Zygote: gradient
+
+function inf_chage_dens(f::Function, a, b, M; λ=1.0)
+    n, m = size(M)
+    Da, Db = gradient((a, b) -> f(optimaltransport(M, a=a, b=b, λ=λ)), a, b)
+    return Da .- sum(Da) / n , Db .- sum(Db) / m
+end
+```
+
+For example, we can check where a local change in the species abundance will result in a change in average utility.
+
+```julia; term=true
+utility(P) = sum(P .* M);
+Da, Db = inf_chage_dens(utility, a, b, M);
+Da'
+Db
+```
+
+Which is, in this case, proportional with the numer of ones in the corresponding row or column of $M$.
+
+# Fitting the utility
+
+We can quantify the fit using the cross-entropy
+
+$$
+H(P, Q) = -\sum_{i=1}^n\sum_{j=1}^m P_{ij}\log Q_{ij}
+$$
+
+```julia
+H(P, Q) = - sum(P .* (log.(Q)))
+```
+
+```julia; term=true
+H(P, Q)
+H(P, Qa)
+H(P, Qb)
+H(P, Qab)
+```
+
+For fitting the matrix $M$, we compute the structured loss.
+
+```julia
+l(M, P; a=nothing, b=nothing, γ=0.1, ϵ=1e-8) = H(P, optimaltransport(M, a=a, b=b, ϵ=ϵ)) + γ * sum(M.^2)
+```
+
+```julia; term=true
+l(M, P)
+l(M, P, a=a)
+l(M, P, b=b)
+l(M, P, a=a, b=b)
+```
+
+Using automatic differentiation, we can compute the gradient of the loss w.r.t. M.
+
+```julia; term=true
+using Zygote
+
+gradient(M->l(M, P), M)[1]
+gradient(M->l(M, P, a=a), M)[1]
+gradient(M->l(M, P, b=b), M)[1]
+gradient(M->l(M, P, a=a, b=b), M)[1]
+```
+
+We can use these directly in gradient-based optimization as provided by the `Optim.jl` library. For example:
+
+```julia
+using Optim
+
+loss(M) = l(M, P, a=a, b=b)
+M0 = zero(M)
+
+result = optimize(loss, M0, autodiff=:forward, BFGS())
+```
+
+In this example, we have used the forward differentiation as provided by `Optim.jl`.
+
+```julia
+Mhat = Optim.minimizer(result)
+
+heatmap(Mhat, title="fitted M", color=:pu_or)
+```
+
+# Parallel computation of the cross-entropy
+
+In the case where one wants to fit a global utility matrix for several observed couplings, one has to compute the optimal transportation for every coupling to obtain the cross-entropy. Especially for the Sinkhorn algorithm, this might be a prohibitively large computational burden. For this reason, we have leveraged a parallel (and GPU friendly) version of the Sinkhorn algorithm, which can compute the sum of the cross-entropies for every observed and modelled coupling pairs, i.e.
+
+$$
+\sum_{l=1}^o H(P^{(l)}, Q^{(l)}(M))
+$$
+
+without explicitly computing every coupling $Q^{(l)}(M)$. To this end, all row marginals are stored in a $n\times o$ matrix $A$ while the column marginals are stored in a $m \times o$ matrix $B$. The $l$-th solution has the form
+
+$$
+Q^{(l)}_{ij} = U_{il}V_{jl}K_{ij}\,,
+$$
+with
+
+$$
+K_{ij} = \exp{\lambda M_{ij}}\,.
+$$
+
+Thus, one has to find two matrices $U\in\mathbb{R}^{n\times o}_+$ and $V\in\mathbb{R}^{m\times o}_+$ which ensure that the couplings are appropriately scaled. This can be done by the algorithm below.
+
+```julia
+function parallel_sinkhorn(M, A, B; λ=1, nsteps=10)
+    U, V = A, B
+    K = exp.(λ * M)
+    for n in 1:nsteps  # for simplicity, we run a fixed number of steps
+        U = A ./ (K * V)
+        V = B ./ (K' * U)
+    end
+    return K, U, V
+end
+```
+One can obtain the couplings:
+
+```julia
+using LinearAlgebra
+
+parallel_couplings(K, U, V) = (Diagonal(U[:,o]) * K * Diagonal(V[:,o]) for o in 1:size(U, 2))
+```
+Note that for the cross-entropy it holds that
+
+$$
+H(P^{(l)}, Q^{(l)}) = -P^{(l)} \log(Q^{(l)} = -\sum_{i,j}(P^{(l)}_{ij} \log(U_{il}) + \log(V_{jl}) + \lambda M_{ij})\,.
+$$
+
+Hence, the cross-entropy for a given set of Ps can be computed as follows.
+
+```julia
+function Hsinkhorn_par(M::Matrix, Ps::Matrix...)
+    A = hcat(sum.(Ps, dims=2)...)
+    B = vcat(sum.(Ps, dims=1)...)'
+    K, U, V = parallel_sinkhorn(M, A, B)
+    ce = 0.0
+    for Po in Ps
+            ce -= sum(Po .* M)
+    end
+    ce -= sum(A .* log.(U))
+    ce -= sum(B .* log.(V))
+    return ce
+end
+```
+
+Let us test this on some toy examples.
+
+```julia; term=true
+P1 = [0.3 0.1 0.3
+      0.1 0   0
+      0.1 0   0.1]
+
+P2 = [0.2  0.1 0.2
+      0.15 0   0
+      0.15 0   0.2]
+
+P3 = [0.2 0.1 0.2
+      0.1 0.05 0
+      0.1 0.05 0.2]
+
+M = [0.2  0.1  0.1
+     0.1 -0.1 -0.1
+     0.1 -0.1  0]
+
+Hsinkhorn_par(M, P1, P2, P3)  # parallel computation
+
+sum(H(P, optimaltransport(M, a=sum(P, dims=2), b=sum(P, dims=1))) for P in [P1, P2, P3])  # nonpar computation
+```
+
+The gradients can be computed directly, allowing for efficient optimization.
+
+```julia
+gradient(M->Hsinkhorn_par(M, P1, P2, P3), M)[1]
+```
