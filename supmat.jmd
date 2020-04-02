@@ -277,7 +277,7 @@ parallel_couplings(K, U, V) = (Diagonal(U[:,o]) * K * Diagonal(V[:,o]) for o in 
 Note that for the cross-entropy it holds that
 
 $$
-H(P^{(l)}, Q^{(l)}) = -P^{(l)} \log(Q^{(l)} = -\sum_{i,j}(P^{(l)}_{ij} \log(U_{il}) + \log(V_{jl}) + \lambda M_{ij})\,.
+H(P^{(l)}, Q^{(l)}) = -\sum_{i,j}(P^{(l)}_{ij} \log(Q^{(l)}_{ij}) = -\sum_{i,j}(P^{(l)}_{ij} (\log(U_{il}) + \log(V_{jl}) + \lambda M_{ij}))\,.
 $$
 
 Hence, the cross-entropy for a given set of Ps can be computed as follows.
