@@ -1,0 +1,925 @@
+sample,pltFamily,pltGenus,plant,Order,Family,Genus,Species,Sex,jdate,caldate,tsect,meter
+1,Portulacaceae,Claytonia,Claytonia lanceolata,Hymenoptera,Halictidae,Lasioglossum,Lasioglossum sp.1,,178,27-Jun,2,48
+2,Ranunculaceae,Ranunculus,Ranunculus eschscholtzii,Diptera,Anthomyiidae,Botanophila,Botanophila sp.1,f,178,27-Jun,2,48
+3,Liliaceae,Erythronium,Erythronium grandiflorum,Diptera,Anthomyiidae,Eremomyioides,Eremomyioides spp.,m,178,27-Jun,2,48
+4,Liliaceae,Erythronium,Erythronium grandiflorum,Hymenoptera,Halictidae,Lasioglossum,Lasioglossum sp.1,,178,27-Jun,2,48
+14,Ranunculaceae,Ranunculus,Ranunculus eschscholtzii,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia sp.1,f,179,28-Jun,2,48
+15,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Muscidae,, ,,179,28-Jun,3,46
+19,Liliaceae,Erythronium,Erythronium grandiflorum,Diptera,Muscidae,, ,,180,29-Jun,2,77
+20,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Anthomyiidae,Eremomyioides,Eremomyioides spp.,f,180,29-Jun,2,77
+21,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Anthomyiidae,Botanophila,Botanophila sp.2,f,180,29-Jun,2,77
+22,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Empididae,Rhamphomyia,Rhamphomyia empis spp.,,180,29-Jun,2,77
+23,Ranunculaceae,Ranunculus,Ranunculus eschscholtzii,Diptera,Syrphidae,Hiatomyia,Hiatomyia hecate,f,180,29-Jun,3,70
+24,Liliaceae,Erythronium,Erythronium grandiflorum,Lepidoptera,Crambidae,Pyrausta,Pyrausta c.f. subsequalis,,180,29-Jun,3,70
+25,Portulacaceae,Claytonia,Claytonia lanceolata,Hymenoptera,Andrenidae,Andrena,Andrena sp.1,,180,29-Jun,3,70
+26,Ranunculaceae,Ranunculus,Ranunculus eschscholtzii,Diptera,Muscidae,Phaonia,Phaonia protuberans,f,180,29-Jun,3,70
+27,Ranunculaceae,Ranunculus,Ranunculus eschscholtzii,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia sp.1,f,181,30-Jun,1,20
+28,Portulacaceae,Claytonia,Claytonia lanceolata,Diptera,Anthomyiidae,Eremomyioides,Eremomyioides spp.,m,181,30-Jun,1,20
+29,Liliaceae,Erythronium,Erythronium grandiflorum,Hymenoptera,Apidae,Bombus,Bombus flavifrons,queen,181,30-Jun,1,20
+30,Portulacaceae,Claytonia,Claytonia lanceolata,Hymenoptera,Halictidae,Lasioglossum,Lasioglossum sp.1,,181,30-Jun,1,20
+31,Liliaceae,Erythronium,Erythronium grandiflorum,Hymenoptera,Apidae,Bombus,Bombus flavifrons,queen,181,30-Jun,1,20
+32,Portulacaceae,Claytonia,Claytonia lanceolata,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,181,30-Jun,1,20
+33,Ranunculaceae,Ranunculus,Ranunculus eschscholtzii,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia spp.,m,181,30-Jun,1,20
+34,Ranunculaceae,Ranunculus,Ranunculus eschscholtzii,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia spp.,f,181,30-Jun,2,5
+35,Liliaceae,Erythronium,Erythronium grandiflorum,Hymenoptera,Halictidae,Lasioglossum,Lasioglossum sp.1,,181,30-Jun,2,5
+36,Liliaceae,Erythronium,Erythronium grandiflorum,Hymenoptera,Halictidae,Lasioglossum,Lasioglossum sp.1,,181,30-Jun,2,5
+37,Ranunculaceae,Ranunculus,Ranunculus eschscholtzii,Diptera,Syrphidae,Hiatomyia,Hiatomyia hecate,f,181,30-Jun,2,5
+45,Portulacaceae,Claytonia,Claytonia lanceolata,Hemiptera,Hemiptera fam.,Hemiptera gen.,Hemiptera sp.1,,182,1-Jul,2,92
+46,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Syrphidae,Hiatomyia,Hiatomyia hecate,f,182,1-Jul,2,92
+47.1,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Anthomyiidae,Pegomya,Pegomya spp.,m,182,1-Jul,2,92
+47.2,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Anthomyiidae,Eremomyioides,Eremomyioides spp.,f,182,1-Jul,2,92
+48,Portulacaceae,Claytonia,Claytonia lanceolata,Diptera,Syrphidae,Eupeodes,Eupeodes lapponicus,m,188,7-Jul,1,39
+49,Portulacaceae,Claytonia,Claytonia lanceolata,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,m,188,7-Jul,1,39
+50,Portulacaceae,Claytonia,Claytonia lanceolata,Hymenoptera,Halictidae,Lasioglossum,Lasioglossum sp.1,,188,7-Jul,1,39
+51,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,,, ,,188,7-Jul,1,39
+52,Portulacaceae,Claytonia,Claytonia lanceolata,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,188,7-Jul,2,74
+53,Portulacaceae,Claytonia,Claytonia lanceolata,Diptera,,, ,,188,7-Jul,2,74
+54,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Hiatomyia,Hiatomyia spp.m,m,188,7-Jul,2,74
+55,Saxifragaceae,Saxifraga,Saxifraga nivalis,Hemiptera,Hemiptera fam.,Hemiptera gen.,Hemiptera sp.1,,188,7-Jul,2,74
+56..1,Portulacaceae,Claytonia,Claytonia lanceolata,Diptera,Muscidae,Phaonia,Phaonia protuberans,f,188,7-Jul,3,33
+56..2,Ericaceae,Vaccinium,Vaccinium caespitosum,Diptera,Muscidae,Phaonia,Phaonia protuberans,f,188,7-Jul,3,33
+57,Ranunculaceae,Ranunculus,Ranunculus eschscholtzii,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,188,7-Jul,3,33
+58,Portulacaceae,Claytonia,Claytonia lanceolata,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,188,7-Jul,3,33
+59,Portulacaceae,Claytonia,Claytonia lanceolata,Diptera,Syrphidae,Cheilosia,Cheilosia seripila,m,188,7-Jul,3,33
+60,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Syrphidae,Hiatomyia,Hiatomyia spp.m,m,188,7-Jul,3,33
+61,Portulacaceae,Claytonia,Claytonia lanceolata,Hymenoptera,Halictidae,Lasioglossum,Lasioglossum sp.1,,189,8-Jul,1,33
+63,Portulacaceae,Claytonia,Claytonia lanceolata,Hymenoptera,Halictidae,Lasioglossum,Lasioglossum sp.1,,189,8-Jul,1,33
+64..1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,, ,,189,8-Jul,1,33
+64..2,Portulacaceae,Claytonia,Claytonia lanceolata,Diptera,Muscidae,, ,,189,8-Jul,1,33
+65,Portulacaceae,Claytonia,Claytonia lanceolata,Coleoptera,Coccinellidae,Coccinellidae genus 1,Coccinellidae sp.1,,189,8-Jul,1,33
+66,Portulacaceae,Claytonia,Claytonia lanceolata,Diptera,,, ,,189,8-Jul,1,33
+67,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,,, ,,189,8-Jul,1,33
+68,Portulacaceae,Claytonia,Claytonia lanceolata,Hymenoptera,Apidae,Bombus,Bombus melanopygus,f,189,8-Jul,2,64
+69,Portulacaceae,Claytonia,Claytonia lanceolata,Diptera,Syrphidae,, ,,189,8-Jul,2,64
+70,Portulacaceae,Claytonia,Claytonia lanceolata,Diptera,Muscidae,Phaonia,Phaonia protuberans,f,189,8-Jul,2,64
+71,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Parasyrphus,Parasyrphus sp.1,f,189,8-Jul,3,42
+72,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Syrphidae,Hiatomyia,Hiatomyia signatiseta,f,189,8-Jul,3,42
+73,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Anthomyiidae,Eustalomyia,Eustalomyia sp.2,,189,8-Jul,3,42
+74,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Anthomyiidae,Eremomyioides,Eremomyioides spp.,f,189,8-Jul,3,42
+75,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Syrphidae,Hiatomyia,Hiatomyia spp.m,m,189,8-Jul,3,42
+76,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Anthomyiidae,Eremomyioides,Eremomyioides spp.,m,189,8-Jul,3,42
+77,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Syrphidae,Hiatomyia,Hiatomyia hecate,f,189,8-Jul,3,42
+78,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,189,8-Jul,3,42
+79,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,m,189,8-Jul,3,42
+80,Portulacaceae,Claytonia,Claytonia lanceolata,Hymenoptera,Halictidae,Lasioglossum,Lasioglossum sp.1,,190,9-Jul,1,24
+82,Ranunculaceae,Ranunculus,Ranunculus eschscholtzii,Diptera,Muscidae,Phaonia,Phaonia monticola,f,190,9-Jul,1,24
+83,Portulacaceae,Claytonia,Claytonia lanceolata,Hymenoptera,Halictidae,Lasioglossum,Lasioglossum sp.1,,190,9-Jul,1,24
+84,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,190,9-Jul,2,1
+85,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Anthomyiidae,Delia,Delia sp.1,f,190,9-Jul,2,1
+86,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Syrphidae,Hiatomyia,Hiatomyia hecate,f,190,9-Jul,2,1
+87,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Syrphidae,Hiatomyia,Hiatomyia spp.m,m,190,9-Jul,2,1
+88,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia spp.,m,193,12-Jul,1,44
+89,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,193,12-Jul,1,44
+90,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Muscidae,, ,,193,12-Jul,1,44
+91,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia spp.,m,193,12-Jul,1,44
+92,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,193,12-Jul,1,44
+93,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia spp.,f,193,12-Jul,1,44
+94,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia spp.,f,193,12-Jul,1,44
+95,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,193,12-Jul,1,44
+96,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia spp.,f,193,12-Jul,1,44
+97,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,193,12-Jul,1,44
+98,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,193,12-Jul,1,44
+99,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia spp.,f,193,12-Jul,1,44
+100,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,193,12-Jul,1,44
+101,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Drymeia,Drymeia spp.,f,193,12-Jul,1,44
+102,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia spp.,f,193,12-Jul,1,44
+103,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,193,12-Jul,1,44
+104,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Halictidae,Lasioglossum,Lasioglossum sp.1,,193,12-Jul,1,44
+105,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,193,12-Jul,1,44
+106,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,193,12-Jul,1,44
+107,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,193,12-Jul,2,14
+108,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,193,12-Jul,2,14
+109,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Potamia,Potamia sp.2,f,193,12-Jul,2,14
+110,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Anthomyiidae,Hydrophoria,Hydrophoria sp.1,m,195,14-Jul,1,37
+111,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,195,14-Jul,1,37
+113,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,195,14-Jul,1,37
+114,Ranunculaceae,Ranunculus,Ranunculus eschscholtzii,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia sp.4,f,195,14-Jul,1,37
+115,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Anthomyiidae,Eustalomyia,Eustalomyia sp.1,m,195,14-Jul,1,37
+116,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia spp.,f,195,14-Jul,1,37
+117,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,195,14-Jul,1,37
+118,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.2,,195,14-Jul,1,37
+119,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,195,14-Jul,1,37
+120,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Muscidae,Drymeia,Drymeia spp.,f,195,14-Jul,1,37
+121,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,195,14-Jul,1,37
+122,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia spp.,f,195,14-Jul,1,37
+123,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Drymeia,Drymeia spp.,f,195,14-Jul,1,37
+124,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,195,14-Jul,1,37
+125,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia spp.,f,195,14-Jul,1,37
+126,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,, ,,195,14-Jul,1,37
+127,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,195,14-Jul,1,37
+128,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.2,,195,14-Jul,2,4
+129,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,195,14-Jul,2,4
+130,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,195,14-Jul,2,4
+131,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Anthomyiidae,Adia,Adia spp.,f,195,14-Jul,2,4
+132,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,195,14-Jul,2,4
+133,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,m,195,14-Jul,2,4
+134,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.2,,195,14-Jul,2,4
+137,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.2,,195,14-Jul,2,4
+138,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,195,14-Jul,2,4
+139,Saxifragaceae,Saxifraga,Saxifraga nivalis,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.2,,195,14-Jul,2,4
+140,Saxifragaceae,Saxifraga,Saxifraga nivalis,Hymenoptera,Hymenoptera fam.,, ,,195,14-Jul,2,4
+142,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,195,14-Jul,3,81
+143,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,195,14-Jul,3,81
+144,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Anthomyiidae,Hydrophoria,Hydrophoria sp.1,m,195,14-Jul,3,81
+145,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,195,14-Jul,3,81
+146,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,195,14-Jul,3,81
+147,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,195,14-Jul,3,81
+151,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,195,14-Jul,3,81
+152,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia spp.,f,195,14-Jul,3,81
+154,Valerinaceae,Valeriana,Valeriana sitchensis,Coleoptera,Carabidae,Carabidae gen.1,Carabidae sp.1,,195,14-Jul,3,81
+155,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,196,15-Jul,1,5
+156,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Anthomyiidae,Hydrophoria,Hydrophoria sp.1,m,196,15-Jul,1,5
+157,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia spp.,m,196,15-Jul,1,5
+158,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Muscidae,Thricops,Thricops inocuus,m,196,15-Jul,1,5
+159,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Anthomyiidae,Adia,Adia spp.,m,196,15-Jul,1,5
+160,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,196,15-Jul,1,5
+161,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Muscidae,Spilogona,Spilogona spp.,m,196,15-Jul,2,54
+162,Scrophulariaceae,Castilleja,Castilleja rhexifolia,Hymenoptera,Apidae,Bombus,Bombus balteatus,queen,196,15-Jul,2,54
+163,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Anthomyiidae,Adia,Adia spp.,m,196,15-Jul,2,54
+164,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Anthomyiidae,Paregle/Adia,Adia sp.2,m,196,15-Jul,2,54
+165,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Syrphidae,Hiatomyia,Hiatomyia plutonia,f,196,15-Jul,2,54
+168,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Anthomyiidae,Botanophila,Botanophila sp.3,f,196,15-Jul,2,54
+169..1,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Syrphidae,Cheilosia,Cheilosia bigelowi,f,196,15-Jul,2,54
+169..2,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Syrphidae,Cheilosia,Cheilosia bigelowi,f,196,15-Jul,2,54
+170,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Muscidae,Thricops,Thricops inocuus,m,196,15-Jul,2,54
+171,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Syrphidae,Hiatomyia,Hiatomyia spp.m,m,196,15-Jul,2,54
+172,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Syrphidae,Hiatomyia,Hiatomyia coriacea,f,196,15-Jul,2,54
+174,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Platycheirus,Platycheirus spp.,f,196,15-Jul,3,91
+175,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,f,196,15-Jul,3,91
+176,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,f,196,15-Jul,3,91
+177,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Syrphidae,Chrysogaster,Chrysogaster sp.1,m,196,15-Jul,3,91
+178,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,196,15-Jul,3,91
+179,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,196,15-Jul,3,91
+180,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.2,,196,15-Jul,3,91
+181,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,196,15-Jul,3,91
+182,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,196,15-Jul,3,91
+183,Valerinaceae,Valeriana,Valeriana sitchensis,Coleoptera,Carabidae,Carabidae gen.1,Carabidae sp.1,,196,15-Jul,3,91
+184,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,196,15-Jul,3,91
+185,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,, ,,196,15-Jul,3,91
+186,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia spp.,f,196,15-Jul,3,91
+187,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops spiniger,m,196,15-Jul,3,91
+188,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,f,197,16-Jul,1,6
+189,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.2,,197,16-Jul,1,6
+190,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Hymenoptera fam.,, ,,197,16-Jul,1,6
+191,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops villicrus,m,197,16-Jul,1,6
+192,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,197,16-Jul,1,6
+193,Brassicaceae,Smelowskia,Smelowskia calycina,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.2,,197,16-Jul,1,6
+194,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Anthomyiidae,Anthomyiidae,Anthomyiidae sp.1,f,197,16-Jul,1,6
+195,Brassicaceae,Smelowskia,Smelowskia calycina,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.2,,197,16-Jul,1,6
+196,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Muscidae,Thricops,Thricops inocuus,m,197,16-Jul,1,6
+197,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,197,16-Jul,2,62
+198,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,m,197,16-Jul,2,62
+199,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia atrocitrea,f,197,16-Jul,2,62
+200,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Muscidae,Phaonia,Phaonia monticola,f,197,16-Jul,2,62
+201,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.2,,197,16-Jul,2,62
+202,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,197,16-Jul,2,62
+203..1,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Syrphidae,Cheilosia,Cheilosia nigrofasciata,m,197,16-Jul,2,62
+203..2,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Syrphidae,Cheilosia,Cheilosia nigrofasciata,,197,16-Jul,2,62
+204,Ranunculaceae,Anemone,Anemone drummondii,Diptera,Muscidae,Drymeia,Drymeia spp.,f,197,16-Jul,2,62
+205,Saxifragaceae,Saxifraga,Saxifraga nivalis,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,197,16-Jul,2,62
+206,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,197,16-Jul,2,62
+207,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Syrphidae,Hiatomyia,Hiatomyia spp.m,m,197,16-Jul,2,62
+208,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Phaonia,Phaonia sp.1,,197,16-Jul,2,62
+209,Polemoniaceae,Polemonium,Polemonium pulcherrimum,Diptera,Muscidae,Thricops,Thricops villicrus,m,197,16-Jul,2,62
+210,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,197,16-Jul,2,62
+212,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Anthomyiidae,Pegohylemyia,Pegohylemyia spp.,m,197,16-Jul,2,62
+213,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,197,16-Jul,2,62
+214,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,197,16-Jul,3,40
+215,Scrophulariaceae,Castilleja,Castilleja rhexifolia,Hymenoptera,Apidae,Bombus,Bombus mixtus,queen,197,16-Jul,3,40
+216,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,197,16-Jul,3,40
+217,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Anthomyiidae,Botanophila,Botanophila sp.3,m,197,16-Jul,3,40
+218,Valerinaceae,Valeriana,Valeriana sitchensis,Lepidoptera,Noctuiidae,Drasteria,Drasteria petricola,,197,16-Jul,3,40
+219,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Syrphidae,Hiatomyia,Hiatomyia hecate,f,197,16-Jul,3,40
+220,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Anthomyiidae,Eremomyioides,Eremomyioides spp.,f,197,16-Jul,3,40
+221,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops inocuus,m,197,16-Jul,3,40
+222,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,197,16-Jul,3,40
+223,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Anthomyiidae,Botanophila,Botanophila sp.3,f,197,16-Jul,3,40
+224,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Empididae,Rhamphomyia,Rhamphomyia empis spp.,,197,16-Jul,3,40
+225,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Anthomyiidae,Adia,Adia sp.2,f,197,16-Jul,3,40
+226,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,198,17-Jul,1,49
+227,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,198,17-Jul,1,49
+228,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,198,17-Jul,1,49
+229,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Muscidae,Phaonia,Phaonia monticola,m,198,17-Jul,1,49
+230.1,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,198,17-Jul,1,49
+230.2,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,198,17-Jul,1,49
+231,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Syrphidae,Hiatomyia,Hiatomyia hecate,f,198,17-Jul,1,49
+232,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,198,17-Jul,1,49
+233,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops inocuus,m,198,17-Jul,1,49
+234,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Anthomyiidae,Delia,Delia sp.2,f,198,17-Jul,1,49
+235,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Anthomyiidae,Phorbia,Phorbia sp.1,f,198,17-Jul,1,49
+236,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Phaonia,Phaonia monticola,m,198,17-Jul,1,49
+237,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,198,17-Jul,1,49
+238,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Anthomyiidae,Adia,Adia sp.2,f,198,17-Jul,1,49
+240,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Drymeia,Drymeia spp.,f,198,17-Jul,1,49
+241,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,198,17-Jul,1,49
+242,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,m,198,17-Jul,1,49
+243,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,m,198,17-Jul,1,49
+244,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,198,17-Jul,1,49
+245,Asteraceae,Tonestus,Tonestus lyalii,Diptera,Syrphidae,Hiatomyia,Hiatomyia hecate,f,198,17-Jul,1,49
+248,Ranunculaceae,Anemone,Anemone drummondii,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,198,17-Jul,1,49
+249,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia spp.,m,198,17-Jul,2,69
+250,Scrophulariaceae,Pedicularis,Pedicularis bracteosa,Hymenoptera,Apidae,Bombus,Bombus balteatus,queen,198,17-Jul,2,69
+251,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,198,17-Jul,2,69
+252,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Syrphidae,Cheilosia,Cheilosia bigelowi,f,198,17-Jul,2,69
+253,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Syrphidae,Cheilosia,Cheilosia bigelowi,m,198,17-Jul,2,69
+254,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Syrphidae,Hiatomyia,Hiatomyia plutonia,f,198,17-Jul,2,69
+255,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,m,198,17-Jul,2,69
+256,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,198,17-Jul,2,69
+257,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,f,198,17-Jul,2,69
+258,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,198,17-Jul,3,93
+259,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Phaonia,Phaonia monticola,f,198,17-Jul,3,93
+260,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,198,17-Jul,3,93
+262,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,198,17-Jul,3,93
+263,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,198,17-Jul,3,93
+264,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,198,17-Jul,3,93
+266.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,f,198,17-Jul,3,93
+266.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,f,198,17-Jul,3,93
+267,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Phaonia,Phaonia monticola,f,198,17-Jul,3,93
+268,Asteraceae,Senecio,Senecio canus,Hymenoptera,Hymenoptera fam.,, ,,198,17-Jul,3,93
+269,Scrophulariaceae,Pedicularis,Pedicularis bracteosa,Hymenoptera,Apidae,Bombus,Bombus mixtus,queen,201,20-Jul,1,89
+270,Valerinaceae,Valeriana,Valeriana sitchensis,Lepidoptera,Noctuiidae,Androloma,Androloma macullochi,,201,20-Jul,1,89
+271,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Chrysotoxum,Chrysotoxum fasciatum,m,201,20-Jul,1,89
+272,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,f,201,20-Jul,1,89
+273,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,m,201,20-Jul,1,89
+274,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,201,20-Jul,1,89
+275.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,201,20-Jul,1,89
+275.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,201,20-Jul,1,89
+275.3,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,201,20-Jul,1,89
+275.4,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,201,20-Jul,1,89
+275.5,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,201,20-Jul,1,89
+275.6,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,201,20-Jul,1,89
+276,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Muscidae,Phaonia,Phaonia incerta,m,201,20-Jul,1,89
+277..2,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Muscidae,Phaonia,Phaonia monticola,f,201,20-Jul,1,89
+277..3,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia monticola,f,201,20-Jul,1,89
+278.1,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Syrphidae,Cheilosia,Cheilosia bigelowi,f,201,20-Jul,1,89
+278.2,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,201,20-Jul,1,89
+281,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,201,20-Jul,1,89
+282,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,201,20-Jul,1,89
+283,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,201,20-Jul,1,89
+284,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Anthomyiidae,Pegohylemyia,Pegohylemyia spp.,m,201,20-Jul,2,3
+285,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Bibionidae,Dilophus,Dilophus sp.1,,201,20-Jul,2,3
+286,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Anthomyiidae,Pegohylemyia,Pegohylemyia spp.,f,201,20-Jul,2,3
+287,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,201,20-Jul,2,3
+288,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Muscidae,Phaonia,Phaonia protuberans,m,201,20-Jul,2,3
+289,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.2,,201,20-Jul,2,3
+290,Brassicaceae,Smelowskia,Smelowskia calycina,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,201,20-Jul,2,3
+291,Brassicaceae,Smelowskia,Smelowskia calycina,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,201,20-Jul,2,3
+293,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,201,20-Jul,2,3
+294.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,202,21-Jul,1,92
+294.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,202,21-Jul,1,92
+294.3,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,202,21-Jul,1,92
+294.4,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,202,21-Jul,1,92
+294.5,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,202,21-Jul,1,92
+294.6,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,202,21-Jul,1,92
+294.7,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,m,202,21-Jul,1,92
+294.8,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,f,202,21-Jul,1,92
+295,Scrophulariaceae,Castilleja,Castilleja rhexifolia,Hymenoptera,Apidae,Bombus,Bombus balteatus,queen,202,21-Jul,1,92
+296,Scrophulariaceae,Pedicularis,Pedicularis bracteosa,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,202,21-Jul,1,92
+297.1,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.2,,202,21-Jul,1,92
+297.2,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Anthomyiidae,Pegohylemyia,Pegohylemyia spp.,f,202,21-Jul,1,92
+297.3,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,m,202,21-Jul,1,92
+297.4,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,m,202,21-Jul,1,92
+297.5,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia monticola,f,203,22-Jul,1,92
+299,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Drymeia,Drymeia spp.,f,202,21-Jul,1,92
+300,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Drymeia,Drymeia spp.,f,202,21-Jul,1,92
+301,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Drymeia,Drymeia spp.,m,202,21-Jul,1,92
+302,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Syrphidae,Chrysogaster,Chrysogaster sp.2,m,202,21-Jul,1,92
+303,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,202,21-Jul,1,92
+308,Asteraceae,Senecio,Senecio canus,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,202,21-Jul,1,92
+310,Asteraceae,Senecio,Senecio canus,Diptera,Anthomyiidae,Paregle/Adia,Adia sp.1,m,202,21-Jul,1,92
+311,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Syrphidae,Sphaerophoria,Sphaerophoria sulphuripes,m,202,21-Jul,1,92
+313,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Muscidae,Spilogona,Spilogona spp.,f,202,21-Jul,1,92
+314,Rosaceae,Fragaria,Fragaria virginiana,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,202,21-Jul,2,16
+315,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,202,21-Jul,2,16
+316.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,202,21-Jul,2,16
+316.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Drymeia,Drymeia spp.,f,202,21-Jul,2,16
+316.3,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Anthomyiidae,Pegohylemyia,Pegohylemyia spp.,m,202,21-Jul,2,16
+316.4,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,202,21-Jul,2,16
+316.5,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,202,21-Jul,2,16
+316.6,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Parasyrphus,Parasyrphus relictus,m,202,21-Jul,2,16
+316.7,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Chrysogaster,Chrysogaster sp.3,m,202,21-Jul,2,16
+316.8,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,202,21-Jul,2,16
+316.9,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,202,21-Jul,2,16
+316.1,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,202,21-Jul,2,16
+325.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,202,21-Jul,3,23
+325.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,202,21-Jul,3,23
+325.3,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,202,21-Jul,3,23
+325.4,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,202,21-Jul,3,23
+325.5,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Parasyrphus,Parasyrphus relictus,f,202,21-Jul,3,23
+325.6,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,f,202,21-Jul,3,23
+325.7,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Chrysotoxum,Chrysotoxum fasciatum,m,202,21-Jul,3,23
+325.8,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Chrysotoxum,Chrysotoxum fasciatum,m,202,21-Jul,3,23
+325.9,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Chrysotoxum,Chrysotoxum fasciatum,f,202,21-Jul,3,23
+325.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Chrysotoxum,Chrysotoxum fasciatum,m,202,21-Jul,3,23
+326.11,Valerinaceae,Valeriana,Valeriana sitchensis,Lepidoptera,Syrphidae,Androloma,Androloma macullochi,,202,21-Jul,3,23
+326,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,202,21-Jul,3,23
+327,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,202,21-Jul,3,23
+339,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,203,22-Jul,1,44
+340,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,203,22-Jul,1,44
+341,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,203,22-Jul,1,44
+344,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops inocuus,m,203,22-Jul,1,44
+345,Asteraceae,Senecio,Senecio canus,Diptera,Anthomyiidae,Adia,Adia sp.1,f,203,22-Jul,1,44
+346,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,f,203,22-Jul,1,44
+347,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops inocuus,m,203,22-Jul,1,44
+348,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Spilogona,Spilogona spp.,m,203,22-Jul,1,44
+349,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,203,22-Jul,1,44
+350,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,m,203,22-Jul,1,44
+351,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,203,22-Jul,1,44
+352,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,203,22-Jul,1,44
+353,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Anthomyiidae,Delia/Lasiomma,Delia/Lasiomma sp.1,f,203,22-Jul,1,44
+354,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops inocuus,m,203,22-Jul,1,44
+355,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,203,22-Jul,1,44
+356,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,203,22-Jul,1,44
+357..1,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,203,22-Jul,1,44
+357..2,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,203,22-Jul,1,44
+358.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,m,203,22-Jul,2,61
+358.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,203,22-Jul,2,61
+358.3,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,203,22-Jul,2,61
+358.4,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,203,22-Jul,2,61
+358.5,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,203,22-Jul,2,61
+359,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,203,22-Jul,2,61
+360,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,203,22-Jul,2,61
+361,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,203,22-Jul,2,61
+362,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,203,22-Jul,2,61
+363,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,203,22-Jul,2,61
+364,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops inocuus,m,203,22-Jul,2,61
+365..1,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Anthomyiidae,Botanophila,Botanophila spp.,m,203,22-Jul,2,61
+365..2,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Anthomyiidae,Botanophila,Botanophila spp.,m,203,22-Jul,2,61
+366.1,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,203,22-Jul,2,61
+366.2,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,203,22-Jul,2,61
+367,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia spp.,f,203,22-Jul,2,61
+368,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,203,22-Jul,2,61
+369,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Syrphidae,Hiatomyia,Hiatomyia plutonia,f,203,22-Jul,2,61
+370,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Potamia,Potamia sp.1,,203,22-Jul,2,61
+371,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,203,22-Jul,2,61
+372,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,203,22-Jul,2,61
+373,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,f,203,22-Jul,2,61
+374,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.2,,203,22-Jul,2,61
+375,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Phaonia,Phaonia monticola,f,203,22-Jul,2,61
+376,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,203,22-Jul,3,98
+377.1,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Syrphidae,Chrysogaster,Chrysogaster sp.2,f,203,22-Jul,3,98
+377.2,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Syrphidae,Platycheirus,Platycheirus holarcticus,m,203,22-Jul,3,98
+378.1,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Syrphidae,Hiatomyia,Hiatomyia hecate,f,203,22-Jul,3,98
+378.2,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,203,22-Jul,3,98
+379,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,203,22-Jul,3,98
+380,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,203,22-Jul,3,98
+381,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Chrysotoxum,Chrysotoxum fasciatum,m,203,22-Jul,3,98
+382,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,f,203,22-Jul,3,98
+383,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,203,22-Jul,3,98
+384,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,203,22-Jul,3,98
+388,Asteraceae,Arnica,Arnica angustifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,203,22-Jul,3,98
+389,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,m,203,22-Jul,3,98
+390,Hydrophyllaceae,Phacelia,Phacelia sericea,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,203,22-Jul,3,98
+391,Liliaceae,Zigadenus,Zigadenus elegans,Hymenoptera,Hymenoptera fam.,, ,,203,22-Jul,3,98
+392,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,203,22-Jul,3,98
+393,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,203,22-Jul,3,98
+394.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,206,25-Jul,1,95
+394.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,206,25-Jul,1,95
+394.3,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,f,206,25-Jul,1,95
+395,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,206,25-Jul,1,95
+396,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,206,25-Jul,1,95
+397,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,206,25-Jul,1,95
+398,Brassicaceae,Draba,Draba incerta,Diptera,Syrphidae,Hiatomyia,Hiatomyia cyanea,f,206,25-Jul,1,95
+399,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,206,25-Jul,1,95
+400,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,206,25-Jul,1,95
+401,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Parasyrphus,Parasyrphus nigritarsus,f,206,25-Jul,1,95
+402,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Parasyrphus,Parasyrphus relictus,m,206,25-Jul,1,95
+403,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia spp.,f,206,25-Jul,1,95
+404,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,206,25-Jul,1,95
+405.1,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Muscidae,Thricops,Thricops inocuus,m,206,25-Jul,1,95
+405.2,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,206,25-Jul,1,95
+407,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops inocuus,m,206,25-Jul,1,95
+408,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,206,25-Jul,2,35
+409.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Parasyrphus,Parasyrphus relictus,f,206,25-Jul,2,35
+409.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Parasyrphus,Parasyrphus relictus,f,206,25-Jul,2,35
+409.3,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,m,206,25-Jul,2,35
+409.4,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,206,25-Jul,2,35
+410,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,m,206,25-Jul,2,35
+412,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Anthomyiidae,Pegomya,Pegomya spp.,f,206,25-Jul,2,35
+413,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,f,206,25-Jul,2,35
+414,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Eupeodes,Eupeodes lapponicus,m,206,25-Jul,2,35
+415,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Eupeodes,Eupeodes lapponicus,f,206,25-Jul,2,35
+416,Valerinaceae,Valeriana,Valeriana sitchensis,Lepidoptera,Nymphalidae,Agalais,Agalais milberti,,206,25-Jul,2,35
+417,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,206,25-Jul,2,35
+418,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,206,25-Jul,2,35
+419,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,206,25-Jul,2,35
+420,Asteraceae,Senecio,Senecio canus,Diptera,Syrphidae,Parasyrphus,Parasyrphus relictus,f,206,25-Jul,2,35
+421,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,206,25-Jul,2,35
+422,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,206,25-Jul,2,35
+423,Valerinaceae,Valeriana,Valeriana sitchensis,Lepidoptera,Syrphidae,Androloma,Androloma macullochi,,206,25-Jul,2,35
+424.1,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Syrphidae,Chrysogaster,Chrysogaster sp.2,f,206,25-Jul,3,71
+424.2,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,206,25-Jul,3,71
+425,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Eupeodes,Eupeodes lapponicus,f,206,25-Jul,3,71
+426,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,206,25-Jul,3,71
+427,Scrophulariaceae,Pedicularis,Pedicularis bracteosa,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,206,25-Jul,3,71
+428,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia spp.,f,206,25-Jul,3,71
+430,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,f,206,25-Jul,3,71
+431,Brassicaceae,Arabis,Arabis drummondii,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,206,25-Jul,3,71
+432,Brassicaceae,Smelowskia,Smelowskia calycina,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,206,25-Jul,3,71
+433,Hydrophyllaceae,Phacelia,Phacelia sericea,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,206,25-Jul,3,71
+434,Hydrophyllaceae,Phacelia,Phacelia sericea,Hymenoptera,Apidae,Bombus,Bombus sylvicola,f,206,25-Jul,3,71
+435,Hydrophyllaceae,Phacelia,Phacelia sericea,Diptera,Syrphidae,Eupeodes,Eupeodes lapponicus,m,206,25-Jul,3,71
+436,Hydrophyllaceae,Phacelia,Phacelia sericea,Diptera,Muscidae,Thricops,Thricops inocuus,m,206,25-Jul,3,71
+437,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,206,25-Jul,3,71
+438,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,206,25-Jul,3,71
+439,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,206,25-Jul,3,71
+440,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,207,26-Jul,1,35
+441.1,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,207,26-Jul,1,35
+441.2,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,207,26-Jul,1,35
+441.3,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,207,26-Jul,1,35
+441.4,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,207,26-Jul,1,35
+442,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,207,26-Jul,1,35
+443.1,Valerinaceae,Valeriana,Valeriana sitchensis,,,, ,,207,26-Jul,1,35
+443.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Parasyrphus,Parasyrphus relictus,m,207,26-Jul,1,35
+443.3,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Parasyrphus,Parasyrphus relictus,m,207,26-Jul,1,35
+443.4,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Calliphoridae,Calliphorid gen.,Calliphorid sp.1,f,207,26-Jul,1,35
+443.5,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Musca,Musca sp.1,m,207,26-Jul,1,35
+444.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Syrphus,Syrphus ribesii,f,207,26-Jul,1,35
+445,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,207,26-Jul,1,35
+446,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,207,26-Jul,1,35
+448,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,207,26-Jul,1,35
+449,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,207,26-Jul,1,35
+450,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,207,26-Jul,1,35
+451,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Phaonia,Phaonia monticola,f,207,26-Jul,1,35
+452,Scrophulariaceae,Veronica,Veronica wormskjoldii,Diptera,Anthomyiidae,Pegohylemyia,Pegohylemyia sp.1,f,207,26-Jul,1,35
+453,Boraginaceae,Myosotis,Myosotis asiatica,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,207,26-Jul,1,35
+454,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,207,26-Jul,1,35
+455,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Anthomyiidae,Anthomyiidae,Anthomyiidae sp.2,f,207,26-Jul,1,35
+456¾2,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Syrphidae,Parasyrphus,Parasyrphus c.f. tarsatus,f,207,26-Jul,1,35
+457,Asteraceae,Arnica,Arnica angustifolia,Diptera,Muscidae,Thricops,Thricops inocuus,m,207,26-Jul,1,35
+458,Scrophulariaceae,Pedicularis,Pedicularis bracteosa,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,207,26-Jul,2,71
+458,Boraginaceae,Myosotis,Myosotis asiatica,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,207,26-Jul,2,71
+459.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Eupeodes,Eupeodes lapponicus,f,207,26-Jul,2,71
+459.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Eupeodes,Eupeodes lapponicus,f,207,26-Jul,2,71
+459.3,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,207,26-Jul,2,71
+459.4,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Eristalis,Eristalis tenax,f,207,26-Jul,2,71
+460..1,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Syrphidae,Chrysogaster,Chrysogaster sp.3,m,207,26-Jul,2,71
+460..2,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Syrphidae,Chrysogaster,Chrysogaster sp.3,m,207,26-Jul,2,71
+461.1,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,207,26-Jul,2,71
+461.2,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,207,26-Jul,2,71
+461.3,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,207,26-Jul,2,71
+462.1,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Drymeia,Drymeia spp.,f,207,26-Jul,2,71
+462.2,Rosaceae,Fragaria,Fragaria virginiana,,,, ,,207,26-Jul,2,71
+463.1,Rosaceae,Fragaria,Fragaria virginiana,,,, ,,207,26-Jul,2,71
+463.2,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,207,26-Jul,2,71
+464,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,207,26-Jul,3,61
+464,Scrophulariaceae,Veronica,Veronica wormskjoldii,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,207,26-Jul,3,61
+464,Boraginaceae,Myosotis,Myosotis asiatica,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,207,26-Jul,3,61
+465.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,207,26-Jul,3,61
+465.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,207,26-Jul,3,61
+465.3,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,207,26-Jul,3,61
+465.4,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,207,26-Jul,3,61
+465.5,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Anthomyiidae,Pegohylemyia,Pegohylemyia sp.1,f,207,26-Jul,3,61
+465.6,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,m,207,26-Jul,3,61
+465.7,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,207,26-Jul,3,61
+466.1,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,207,26-Jul,3,61
+466.2,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,m,207,26-Jul,3,61
+466.3,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,207,26-Jul,3,61
+467.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Chrysotoxum,Chrysotoxum fasciatum,m,210,29-Jul,1,20
+467.2,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,210,29-Jul,1,20
+467.3,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,210,29-Jul,1,20
+467.4,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,210,29-Jul,1,20
+467.5,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,210,29-Jul,1,20
+467.6,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,210,29-Jul,1,20
+467.7,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,210,29-Jul,1,20
+467.8,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,210,29-Jul,1,20
+467.9,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,210,29-Jul,1,20
+467.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Anthomyiidae,Pegohylemyia,Pegohylemyia sp.3,f,210,29-Jul,1,20
+467.11,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,f,210,29-Jul,1,20
+467.12,Valerinaceae,Valeriana,Valeriana sitchensis,Lepidoptera,Syrphidae,Androloma,Androloma macullochi,,210,29-Jul,1,20
+483,Fabaceae,Astragalus,Hedysarum sulphurescens,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,210,29-Jul,1,20
+484.1,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Syrphidae,Hiatomyia,Hiatomyia spp.,f,210,29-Jul,1,20
+484.2,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,210,29-Jul,1,20
+484.3,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,210,29-Jul,1,20
+485.1,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,210,29-Jul,1,20
+485.2,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,210,29-Jul,1,20
+485.3,Asteraceae,Erigeron,Erigeron peregrinus,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,210,29-Jul,1,20
+486.1,Asteraceae,Senecio,Senecio canus,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,210,29-Jul,1,20
+486.2,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,210,29-Jul,1,20
+486.3,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,210,29-Jul,1,20
+488,Asteraceae,Arnica,Arnica angustifolia,Diptera,Anthomyiidae,Pegomya,Pegomya sp.2,f,210,29-Jul,1,20
+489.1,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,210,29-Jul,2,24
+489.2,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,210,29-Jul,2,24
+489.3,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Parasyrphus,Parasyrphus c.f. tarsatus,f,210,29-Jul,2,24
+489.4,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Eupeodes,Eupeodes lapponicus,m,210,29-Jul,2,24
+489.5,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,210,29-Jul,2,24
+490.1,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,210,29-Jul,2,24
+490.2,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,210,29-Jul,2,24
+490.3,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,210,29-Jul,2,24
+490.4,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,210,29-Jul,2,24
+490.5,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,210,29-Jul,2,24
+492,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,210,29-Jul,2,24
+493,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Muscidae,Drymeia,Drymeia spp.,f,210,29-Jul,2,24
+494.1,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,210,29-Jul,2,24
+494.2,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,210,29-Jul,2,24
+494.3,Asteraceae,Senecio,Senecio canus,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,210,29-Jul,2,24
+495,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,210,29-Jul,3,18
+496,Fabaceae,Astragalus,Astragalus alpinus,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,210,29-Jul,3,18
+497.1,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,210,29-Jul,3,18
+497.2,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Empididae,Rhamphomyia,Rhamphomyia empis spp.,,210,29-Jul,3,18
+497.3,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,210,29-Jul,3,18
+498,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Empididae,Rhamphomyia,Rhamphomyia empis spp.,,210,29-Jul,3,18
+499.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,210,29-Jul,3,18
+499.2,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,210,29-Jul,3,18
+500,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,210,29-Jul,3,18
+501.1,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Muscidae,Drymeia,Drymeia spp.,f,211,30-Jul,1,28
+501.2,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Muscidae,Drymeia,Drymeia spp.,f,211,30-Jul,1,28
+501.3,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Syrphidae,Platycheirus,Platycheirus spp.,f,211,30-Jul,1,28
+502.1,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Phaonia,Phaonia monticola,f,211,30-Jul,1,28
+502.2,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,211,30-Jul,1,28
+503.1,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,211,30-Jul,1,28
+503.2,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,211,30-Jul,1,28
+503.3,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,f,211,30-Jul,1,28
+504,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,211,30-Jul,1,28
+505.1,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Phaonia,Phaonia monticola,m,211,30-Jul,2,74
+505.2,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,211,30-Jul,2,74
+506.1,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,211,30-Jul,2,74
+506.2,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,211,30-Jul,2,74
+507,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,211,30-Jul,2,74
+508,Valerinaceae,Valeriana,Valeriana sitchensis,Lepidoptera,Sesiidae,Synanthedon,Synanthedon sp.1,,211,30-Jul,2,74
+509,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,211,30-Jul,2,74
+510.1,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,211,30-Jul,2,74
+510.2,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,211,30-Jul,2,74
+511.1,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,211,30-Jul,2,74
+511.2,Boraginaceae,Myosotis,Myosotis asiatica,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,211,30-Jul,2,74
+512,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,211,30-Jul,3,77
+513,Asteraceae,Erigeron,Erigeron peregrinus,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,211,30-Jul,3,77
+514.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,212,31-Jul,1,8
+514.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Anthomyiidae,Pegohylemyia,Pegohylemyia sp.1,m,212,31-Jul,1,8
+514.3,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,212,31-Jul,1,8
+514.4,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,212,31-Jul,1,8
+515.1,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Drymeia,Drymeia spp.,f,212,31-Jul,1,8
+515.2,Rosaceae,Fragaria,Fragaria virginiana,Diptera,Muscidae,Drymeia,Drymeia spp.,f,212,31-Jul,1,8
+516.1,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,212,31-Jul,1,8
+516.2,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,212,31-Jul,1,8
+516.3,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,212,31-Jul,1,8
+516.4,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,212,31-Jul,1,8
+516.5,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,212,31-Jul,1,8
+517.1,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,212,31-Jul,1,8
+517.2,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,212,31-Jul,1,8
+517.3,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,212,31-Jul,1,8
+517.4,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,212,31-Jul,1,8
+517.5,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,212,31-Jul,1,8
+518,Boraginaceae,Myosotis,Myosotis asiatica,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,212,31-Jul,1,8
+519.1,Ranunculaceae,Aquilegia,Aquilegia flavescens,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,212,31-Jul,1,8
+519.2,Ranunculaceae,Aquilegia,Aquilegia flavescens,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,212,31-Jul,1,8
+520,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,212,31-Jul,1,8
+521..1,Ranunculaceae,Aquilegia,Aquilegia flavescens,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,212,31-Jul,1,8
+521..2,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,212,31-Jul,1,8
+522,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops inocuus,m,212,31-Jul,1,8
+523,Asteraceae,Senecio,Senecio canus,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,212,31-Jul,1,8
+524,Hydrophyllaceae,Phacelia,Phacelia sericea,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,212,31-Jul,1,8
+525.1,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,212,31-Jul,2,51
+525.2,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Syrphidae,Hiatomyia,Hiatomyia spp.,f,212,31-Jul,2,51
+526,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,212,31-Jul,2,51
+527.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Parasyrphus,Parasyrphus relictus,f,212,31-Jul,2,51
+527.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,212,31-Jul,2,51
+528.1,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Stratiomyidae,Beris,Beris sp.1,f,212,31-Jul,2,51
+528.2,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Drymeia,Drymeia spp.,f,212,31-Jul,2,51
+528.3,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops inocuus,m,212,31-Jul,2,51
+528.4,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,212,31-Jul,2,51
+528.5,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,212,31-Jul,2,51
+528.6,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops inocuus,m,212,31-Jul,2,51
+529,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Syrphidae,Sphaerophoria,Sphaerophoria sulphuripes,f,212,31-Jul,2,51
+530,Ranunculaceae,Aquilegia,Aquilegia flavescens,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,212,31-Jul,2,51
+531,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Muscidae,Drymeia,Drymeia spp.,f,212,31-Jul,2,51
+532,Saxifragaceae,Saxifraga,Saxifraga bronchialis,Diptera,Empididae,Rhamphomyia,Rhamphomyia empis spp.,,212,31-Jul,2,51
+533.1,Asteraceae,Erigeron,Erigeron compositus,Diptera,Muscidae,Schoenomyza,Schoenomyza sp.1,f,212,31-Jul,2,51
+533.2,Asteraceae,Erigeron,Erigeron compositus,Diptera,Syrphidae,Hiatomyia,Hiatomyia spp.,f,212,31-Jul,2,51
+534,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,215,3-Aug,2,70
+535.1,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Phaonia,Phaonia monticola,f,215,3-Aug,2,70
+535.2,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Phaonia,Phaonia monticola,m,215,3-Aug,2,70
+535.3,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Phaonia,Phaonia protuberans,f,215,3-Aug,2,70
+535.4,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,215,3-Aug,2,70
+535.5,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,215,3-Aug,2,70
+535.6,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,215,3-Aug,2,70
+535.7,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,215,3-Aug,2,70
+535.8,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,215,3-Aug,2,70
+535.9,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,215,3-Aug,2,70
+535.1,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Anthomyiidae,Adia,Adia sp.3,m,215,3-Aug,2,70
+535.11,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Anthomyiidae,Adia,Adia sp.3,f,215,3-Aug,2,70
+536,Boraginaceae,Myosotis,Myosotis asiatica,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,215,3-Aug,2,70
+537.1,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,215,3-Aug,2,70
+537.2,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,215,3-Aug,2,70
+538.1,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Phaonia,Phaonia brunneinervis,f,215,3-Aug,2,70
+538.2,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,215,3-Aug,2,70
+538.3,Rosaceae,Potentilla,Potentilla diversifolia,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.1,,215,3-Aug,2,70
+539,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,215,3-Aug,2,70
+540.1,Ranunculaceae,Aquilegia,Aquilegia flavescens,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,215,3-Aug,2,70
+540.2,Ranunculaceae,Aquilegia,Aquilegia flavescens,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,215,3-Aug,2,70
+540.3,Ranunculaceae,Aquilegia,Aquilegia flavescens,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,215,3-Aug,2,70
+540.4,Ranunculaceae,Aquilegia,Aquilegia flavescens,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,215,3-Aug,2,70
+540.5,Ranunculaceae,Aquilegia,Aquilegia flavescens,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,215,3-Aug,2,70
+540.6,Ranunculaceae,Aquilegia,Aquilegia flavescens,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,215,3-Aug,2,70
+541,Fabaceae,Astragalus,Hedysarum sulphurescens,Hymenoptera,Apidae,Bombus,Bombus sylvicola,f,215,3-Aug,3,29
+542.1,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,215,3-Aug,3,29
+542.2,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,215,3-Aug,3,29
+542.3,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,215,3-Aug,3,29
+542.4,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Phaonia,Phaonia monticola,m,215,3-Aug,3,29
+542.5,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Phaonia,Phaonia monticola,m,215,3-Aug,3,29
+542.6,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Phaonia,Phaonia monticola,f,215,3-Aug,3,29
+542.7,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Phaonia,Phaonia monticola,m,215,3-Aug,3,29
+542.8,Asteraceae,Erigeron,Erigeron peregrinus,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,215,3-Aug,3,29
+542.9,Asteraceae,Erigeron,Erigeron peregrinus,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,215,3-Aug,3,29
+542.1,Asteraceae,Erigeron,Erigeron peregrinus,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,215,3-Aug,3,29
+543.1,Asteraceae,Senecio,Senecio triangularis,Diptera,Anthomyiidae,Pegohylemyia,Pegohylemyia spp.,,215,3-Aug,3,29
+543.2,Asteraceae,Senecio,Senecio triangularis,Diptera,Syrphidae,Syrphus,Syrphus torvus,m,215,3-Aug,3,29
+544,Asteraceae,Erigeron,Erigeron peregrinus,Lepidoptera,Noctuidae,Lasionycta,Lasionycta impingens,,215,3-Aug,3,29
+545,Asteraceae,Arnica,Arnica angustifolia,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,215,3-Aug,3,29
+546.1,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Anthomyiidae,Pegohylemyia,Pegohylemyia sp.2,f,215,3-Aug,3,29
+546.2,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,215,3-Aug,3,29
+546.3,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops inocuus,m,215,3-Aug,3,29
+546.4,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops inocuus,m,215,3-Aug,3,29
+546.5,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,215,3-Aug,3,29
+546.6,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops inocuus,m,215,3-Aug,3,29
+547,Asteraceae,Senecio,Senecio canus,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.3,,215,3-Aug,3,29
+548..1,Asteraceae,Senecio,Senecio triangularis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,215,3-Aug,3,29
+548..2,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,215,3-Aug,3,29
+549.1,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Rhagionidae,Symphoromyia,Symphoromyia sp.1,,217,5-Aug,1,10
+549.2,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,217,5-Aug,1,10
+549.3,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,217,5-Aug,1,10
+549.4,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,217,5-Aug,1,10
+549.5,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,217,5-Aug,1,10
+549.6,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,217,5-Aug,1,10
+550.1,Asteraceae,Erigeron,Erigeron peregrinus,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,217,5-Aug,1,10
+550.2,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Phaonia,Phaonia monticola,f,217,5-Aug,1,10
+550.3,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,217,5-Aug,1,10
+550.4,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,217,5-Aug,1,10
+550.5,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,217,5-Aug,1,10
+550.6,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,217,5-Aug,1,10
+551,Ranunculaceae,Aquilegia,Aquilegia flavescens,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,217,5-Aug,1,10
+552,Scrophulariaceae,Castilleja,Castilleja occidentalis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,217,5-Aug,1,10
+554,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia spp.,f,217,5-Aug,1,10
+555,Asteraceae,Senecio,Senecio triangularis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,217,5-Aug,1,10
+556,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus melanopygus,f,217,5-Aug,1,10
+557,Fabaceae,Astragalus,Hedysarum sulphurescens,Hymenoptera,Apidae,Bombus,Bombus flavifrons,f,217,5-Aug,1,10
+558..1,Asteraceae,Erigeron,Erigeron peregrinus,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,217,5-Aug,1,10
+558..2,Asteraceae,Senecio,Senecio triangularis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,217,5-Aug,1,10
+558..3,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,217,5-Aug,1,10
+558..4,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,217,5-Aug,1,10
+559,Ranunculaceae,Delphinium,Delphinium nelsonii,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,217,5-Aug,1,10
+560.1,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,217,5-Aug,2,76
+560.2,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,217,5-Aug,2,76
+560.3,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,217,5-Aug,2,76
+561.1,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,217,5-Aug,2,76
+561.2,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,217,5-Aug,2,76
+562,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,217,5-Aug,2,76
+563.1,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus melanopygus,f,217,5-Aug,2,76
+563.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,m,217,5-Aug,2,76
+564,Asteraceae,Arnica,Arnica chamissonis,Diptera,Anthomyiidae,Pegohylemyia,Pegohylemyia sp.3,f,217,5-Aug,2,76
+565.1,Asteraceae,Achillea,Achillea millefolium,Diptera,Anthomyiidae,Crinurina,Crinurina sp. 1,f,217,5-Aug,2,76
+565.2,Asteraceae,Achillea,Achillea millefolium,Diptera,Empididae,Rhamphomyia,Rhamphomyia empis spp.,,217,5-Aug,2,76
+566,Asteraceae,Solidago,Solidago multiradiata,Diptera,Muscidae,Drymeia,Drymeia spp.,f,217,5-Aug,2,76
+567.2,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,217,5-Aug,3,86
+567.3,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Eristalis,Eristalis tenax,m,217,5-Aug,3,86
+568,Asteraceae,Erigeron,Erigeron peregrinus,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,217,5-Aug,3,86
+569.1,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,217,5-Aug,3,86
+569.2,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,217,5-Aug,3,86
+570,Ranunculaceae,Delphinium,Delphinium nelsonii,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia sp.2,m,217,5-Aug,3,86
+571.1,Asteraceae,Solidago,Solidago multiradiata,Diptera,Muscidae,Drymeia,Drymeia spp.,f,217,5-Aug,3,86
+571.2,Asteraceae,Solidago,Solidago multiradiata,Diptera,Muscidae,Drymeia,Drymeia spp.,f,217,5-Aug,3,86
+571.3,Asteraceae,Solidago,Solidago multiradiata,Lepidoptera,Pyralidae,Pyla,Pyla scintillans,,217,5-Aug,3,86
+572,Asteraceae,Achillea,Achillea millefolium,Diptera,Muscidae,Drymeia,Drymeia spp.,f,217,5-Aug,3,86
+573,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,218,6-Aug,1,82
+574.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Chrysotoxum,Chrysotoxum fasciatum,m,218,6-Aug,1,82
+574.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,218,6-Aug,1,82
+574.3,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,218,6-Aug,1,82
+574.4,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,218,6-Aug,1,82
+575.1,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,218,6-Aug,1,82
+575.2,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Anthomyiidae,Delia,Delia sp.3,f,218,6-Aug,1,82
+576,Asteraceae,Solidago,Solidago multiradiata,Diptera,Muscidae,Drymeia,Drymeia spp.,f,218,6-Aug,1,82
+577.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,221,9-Aug,1,58
+577.2,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,221,9-Aug,1,58
+578.1,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,221,9-Aug,1,58
+578.2,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,221,9-Aug,1,58
+578.3,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,221,9-Aug,1,58
+578.4,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,221,9-Aug,1,58
+579.1,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,221,9-Aug,1,58
+579.2,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,221,9-Aug,1,58
+579.3,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,221,9-Aug,1,58
+579.4,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,221,9-Aug,1,58
+579.5,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,221,9-Aug,1,58
+579.6,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops inocuus,m,221,9-Aug,1,58
+579.7,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Anthomyiidae,Pegohylemyia,Pegohylemyia sp.2,f,221,9-Aug,1,58
+579.8,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,221,9-Aug,1,58
+580,Saxifragaceae,Saxifraga,Saxifraga bronchialis,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,221,9-Aug,1,58
+581,Asteraceae,Erigeron,Erigeron compositus,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,221,9-Aug,1,58
+582.1,Asteraceae,Arnica,Arnica chamissonis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,221,9-Aug,1,58
+582.2,Asteraceae,Arnica,Arnica chamissonis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,221,9-Aug,1,58
+582.3,Asteraceae,Arnica,Arnica chamissonis,Diptera,Dryomyzidae,Dryomyza,Dryomyza sp.1,f,221,9-Aug,1,58
+583.1,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,221,9-Aug,1,58
+583.2,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops inocuus,m,221,9-Aug,1,58
+584,Asteraceae,Arnica,Arnica angustifolia,Diptera,Muscidae,Thricops,Thricops inocuus,m,221,9-Aug,1,58
+585,Asteraceae,Solidago,Solidago multiradiata,Diptera,Muscidae,Drymeia,Drymeia spp.,f,221,9-Aug,1,58
+586.1,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Muscidae,Drymeia,Drymeia spp.,f,221,9-Aug,1,58
+586.2,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Muscidae,Drymeia,Drymeia spp.,f,221,9-Aug,1,58
+587,Asteraceae,Senecio,Senecio triangularis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,221,9-Aug,2,64
+588.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,221,9-Aug,2,64
+588.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Eupeodes,Eupeodes lapponicus,m,221,9-Aug,2,64
+588.3,Valerinaceae,Valeriana,Valeriana sitchensis,Lepidoptera,Noctuidae,Agrotis,Agrotis obliqua,,221,9-Aug,2,64
+589.1,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Syrphidae,Syrphus,Syrphus ribesii,m,221,9-Aug,2,64
+589.2,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,221,9-Aug,2,64
+589.3,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,221,9-Aug,2,64
+589.4,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,221,9-Aug,2,64
+590.1,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,221,9-Aug,2,64
+590.2,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,221,9-Aug,2,64
+590.3,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia spp.,f,221,9-Aug,2,64
+591.1,Asteraceae,Senecio,Senecio triangularis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,221,9-Aug,2,64
+591.2,Asteraceae,Senecio,Senecio triangularis,Hymenoptera,Apidae,Bombus,Bombus melanopygus,f,221,9-Aug,2,64
+592.1,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,221,9-Aug,2,64
+592.2,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,221,9-Aug,2,64
+592.3,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,221,9-Aug,2,64
+592.4,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,221,9-Aug,2,64
+592.5,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,221,9-Aug,2,64
+593,Saxifragaceae,Heuchera,Heuchera cylindrica,Hymenoptera,Apidae,Bombus,Bombus flavifrons,f,221,9-Aug,2,64
+594.1,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,223,11-Aug,1,93
+594.2,Asteraceae,Erigeron,Erigeron peregrinus,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,223,11-Aug,1,93
+595.1,Asteraceae,Senecio,Senecio triangularis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,223,11-Aug,1,93
+595.2,Asteraceae,Senecio,Senecio triangularis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,223,11-Aug,1,93
+596.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,m,223,11-Aug,1,93
+596.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Eristalis,Eristalis tenax,m,223,11-Aug,1,93
+596.3,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,223,11-Aug,1,93
+596.4,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,223,11-Aug,1,93
+596.5,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,223,11-Aug,1,93
+596.6,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,223,11-Aug,1,93
+596.7,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Drymeia,Drymeia spp.,f,223,11-Aug,1,93
+596.8,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,223,11-Aug,1,93
+596.9,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,223,11-Aug,1,93
+596.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,223,11-Aug,1,93
+596.11,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,223,11-Aug,1,93
+597,Asteraceae,Senecio,Senecio triangularis,Lepidoptera,,Colias,Colias meadii,,223,11-Aug,1,93
+598.1,Gentianaceae,Gentianella,Gentianella amarella,Diptera,Syrphidae,Platycheirus,Platycheirus spp.,f,223,11-Aug,1,93
+598.2,Gentianaceae,Gentianella,Gentianella amarella,Hymenoptera,Apidae,Bombus,Bombus melanopygus,f,223,11-Aug,1,93
+599,Fabaceae,Astragalus,Hedysarum sulphurescens,Hymenoptera,Apidae,Bombus,Bombus flavifrons,f,223,11-Aug,1,93
+600.1,Asteraceae,Solidago,Solidago multiradiata,Hymenoptera,Hymenoptera fam.,, ,,223,11-Aug,1,93
+600.2,Asteraceae,Solidago,Solidago multiradiata,Diptera,Muscidae,Drymeia,Drymeia spp.,f,223,11-Aug,1,93
+600.3,Asteraceae,Solidago,Solidago multiradiata,Diptera,Muscidae,Drymeia,Drymeia spp.,f,223,11-Aug,1,93
+601.1,Asteraceae,Senecio,Senecio triangularis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,223,11-Aug,2,64
+601.2,Asteraceae,Senecio,Senecio triangularis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,223,11-Aug,2,64
+602.1,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Platycheirus,Platycheirus holarcticus,m,223,11-Aug,2,64
+602.2,Valerinaceae,Valeriana,Valeriana sitchensis,Lepidoptera,Noctuidae,Lasionycta,Lasionycta impingens,,223,11-Aug,2,64
+603.1,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,223,11-Aug,2,64
+603.2,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,223,11-Aug,2,64
+603.3,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,223,11-Aug,2,64
+604.1,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Anthomyiidae,Botanophila,Botanophila sp.4,m,223,11-Aug,2,64
+604.2,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,223,11-Aug,2,64
+604.3,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,223,11-Aug,2,64
+604.4,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,223,11-Aug,2,64
+604.5,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,223,11-Aug,2,64
+604.6,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,223,11-Aug,2,64
+604.7,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia sp.3,m,223,11-Aug,2,64
+604.8,Liliaceae,Zigadenus,Zigadenus elegans,Hemiptera,Hemiptera fam.,Hemiptera gen.,Hemiptera sp.2,,223,11-Aug,2,64
+605.1,Ranunculaceae,Aquilegia,Aquilegia flavescens,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,223,11-Aug,2,64
+605.2,Ranunculaceae,Aquilegia,Aquilegia flavescens,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,223,11-Aug,2,64
+606,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,223,11-Aug,2,64
+607,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,223,11-Aug,2,64
+608.1,Saxifragaceae,Saxifraga,Saxifraga nivalis,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,223,11-Aug,2,64
+608.2,Saxifragaceae,Saxifraga,Saxifraga bronchialis,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,223,11-Aug,2,64
+609.1,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Anthomyiidae,Pegomya,Pegomya sp.1,f,226,14-Aug,1,33
+609.2,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Anthomyiidae,Botanophila,Botanophila sp.4,m,226,14-Aug,1,33
+610,Ranunculaceae,Delphinium,Delphinium nelsonii,Hymenoptera,Apidae,Bombus,Bombus balteatus,f,226,14-Aug,1,33
+611.1,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus sylvicola,m,226,14-Aug,1,33
+611.2,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,m,226,14-Aug,1,33
+611.3,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,226,14-Aug,1,33
+611.4,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,226,14-Aug,1,33
+612.1,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Phaonia,Phaonia monticola,m,226,14-Aug,1,33
+612.2,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,226,14-Aug,1,33
+612.3,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,226,14-Aug,1,33
+612.4,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,226,14-Aug,1,33
+612.5,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Drymeia,Drymeia spp.,f,226,14-Aug,1,33
+613.1,Fabaceae,Astragalus,Hedysarum sulphurescens,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,226,14-Aug,1,33
+614..1,Asteraceae,Erigeron,Erigeron peregrinus,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,226,14-Aug,1,33
+614..2,Asteraceae,Senecio,Senecio triangularis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,226,14-Aug,1,33
+615,Asteraceae,Senecio,Senecio triangularis,Diptera,Tachinidae,Tachinid gen.,Tachinid spp.,f,226,14-Aug,1,33
+616.1,Asteraceae,Arnica,Arnica chamissonis,Diptera,Muscidae,Drymeia,Drymeia spp.,f,226,14-Aug,1,33
+616.2,Asteraceae,Arnica,Arnica chamissonis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,226,14-Aug,1,33
+616.3,Asteraceae,Arnica,Arnica chamissonis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,226,14-Aug,1,33
+617,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Empididae,Rhamphomyia,Rhamphomyia spp.,,226,14-Aug,2,51
+618.1,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,226,14-Aug,2,51
+618.2,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,226,14-Aug,2,51
+619.1,Asteraceae,Solidago,Solidago multiradiata,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,226,14-Aug,2,51
+619.2,Asteraceae,Solidago,Solidago multiradiata,Diptera,Muscidae,Drymeia,Drymeia spp.,f,226,14-Aug,2,51
+619.3,Asteraceae,Solidago,Solidago multiradiata,Diptera,Muscidae,Drymeia,Drymeia spp.,f,226,14-Aug,2,51
+619.4,Asteraceae,Solidago,Solidago multiradiata,Diptera,Muscidae,Drymeia,Drymeia spp.,f,226,14-Aug,2,51
+619.5,Asteraceae,Solidago,Solidago multiradiata,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,226,14-Aug,2,51
+620,Liliaceae,Allium,Allium cernuum,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,226,14-Aug,2,51
+621.1,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,226,14-Aug,2,51
+621.2,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,226,14-Aug,2,51
+621.3,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,226,14-Aug,2,51
+622,Asteraceae,Erigeron,Erigeron compositus,Diptera,Muscidae,Thricops,Thricops septentrionalis,m,226,14-Aug,2,51
+623,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,227,15-Aug,1,49
+624,Asteraceae,Senecio,Senecio triangularis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,227,15-Aug,1,49
+625,Saxifragaceae,Saxifraga,Saxifraga bronchialis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,227,15-Aug,1,49
+626,Asteraceae,Achillea,Achillea millefolium,Diptera,Muscidae,Drymeia,Drymeia spp.,f,227,15-Aug,1,49
+627.1,Asteraceae,Solidago,Solidago multiradiata,Diptera,Anthomyiidae,Pegomya,Pegomya sp.1,f,227,15-Aug,1,49
+627.2,Asteraceae,Solidago,Solidago multiradiata,Diptera,Muscidae,Drymeia,Drymeia spp.,f,227,15-Aug,1,49
+627.3,Asteraceae,Solidago,Solidago multiradiata,Diptera,Muscidae,Drymeia,Drymeia spp.,f,227,15-Aug,1,49
+627.4,Asteraceae,Solidago,Solidago multiradiata,Diptera,Muscidae,Drymeia,Drymeia spp.,f,227,15-Aug,1,49
+627.5,Asteraceae,Solidago,Solidago multiradiata,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,227,15-Aug,1,49
+627.6,Asteraceae,Solidago,Solidago multiradiata,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,227,15-Aug,1,49
+628.1,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,227,15-Aug,1,49
+628.2,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Muscidae,Drymeia,Drymeia spp.,f,227,15-Aug,1,49
+629.1,Asteraceae,Erigeron,Erigeron compositus,Diptera,Anthomyiidae,Botanophila,Botanophila sp.4,m,227,15-Aug,1,49
+629.2,Asteraceae,Erigeron,Erigeron compositus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,227,15-Aug,1,49
+630.1,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,227,15-Aug,2,37
+630.2,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,227,15-Aug,2,37
+631,Valerinaceae,Valeriana,Valeriana sitchensis,Lepidoptera,Noctuidae,Lasionycta,Lasionycta impingens,,227,15-Aug,2,37
+633,Valerinaceae,Valeriana,Valeriana sitchensis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,227,15-Aug,2,37
+634,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Syrphidae,Eristalis,Eristalis tenax,f,227,15-Aug,2,37
+635,Saxifragaceae,Heuchera,Heuchera cylindrica,Hymenoptera,Apidae,Bombus,Bombus flavifrons,f,227,15-Aug,2,37
+636.1,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Muscidae,Drymeia,Drymeia spp.,f,227,15-Aug,2,37
+636.2,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,227,15-Aug,2,37
+636.3,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Anthomyiidae,Hydrophoria,Hydrophoria sp.2,m,227,15-Aug,2,37
+637,Asteraceae,Erigeron,Erigeron peregrinus,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,227,15-Aug,3,62
+638,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Muscidae,Phaonia,Phaonia monticola,m,227,15-Aug,3,62
+639,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia spp.,f,227,15-Aug,3,62
+640.1,Liliaceae,Zigadenus,Zigadenus elegans,Hymenoptera,Tenthridinidae,Macrophya,Macrophya sp.4,,227,15-Aug,3,62
+640.2,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Muscina,Muscina sp.1,f,227,15-Aug,3,62
+640.3,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,227,15-Aug,3,62
+640.4,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,227,15-Aug,3,62
+640.5,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,227,15-Aug,3,62
+640.6,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,227,15-Aug,3,62
+641,Asteraceae,Arnica,Arnica chamissonis,Hymenoptera,Apidae,Bombus,Bombus mixtus,m,227,15-Aug,3,62
+642.1,Ranunculaceae,Aquilegia,Aquilegia flavescens,Hymenoptera,Apidae,Bombus,Bombus balteatus,f,227,15-Aug,3,62
+642.2,Ranunculaceae,Aquilegia,Aquilegia flavescens,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,227,15-Aug,3,62
+642.3,Ranunculaceae,Aquilegia,Aquilegia flavescens,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,227,15-Aug,3,62
+643,Asteraceae,Achillea,Achillea millefolium,Diptera,Syrphidae,Hiatomyia,Hiatomyia spp.m,m,227,15-Aug,3,62
+644,Asteraceae,Arnica,Arnica chamissonis,Lepidoptera,Pyralidae,Speranza,Speranza simplex,m,227,15-Aug,3,62
+645,Asteraceae,Achillea,Achillea millefolium,Diptera,Muscidae,Drymeia,Drymeia spp.,f,230,18-Aug,1,51
+646,Valerinaceae,Valeriana,Valeriana sitchensis,Diptera,Syrphidae,Eristalis,Eristalis tenax,m,230,18-Aug,1,51
+647,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Anthomyiidae,Botanophila,Botanophila sp.4,f,230,18-Aug,1,51
+648,Asteraceae,Erigeron,Erigeron peregrinus,Lepidoptera,Sphingidae,Syngrapha,Syngrapha sp.1,,230,18-Aug,1,51
+649,Asteraceae,Solidago,Solidago multiradiata,Diptera,Anthomyiidae,Botanophila,Botanophila sp.4,f,230,18-Aug,1,51
+650.1,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Syrphidae,Chrysotoxum,Chrysotoxum fasciatum,f,230,18-Aug,1,51
+650.2,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Muscidae,Phaonia,Phaonia monticola,m,230,18-Aug,1,51
+650.3,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Muscidae,Drymeia,Drymeia sp.1,f,230,18-Aug,1,51
+651.1,Asteraceae,Solidago,Solidago multiradiata,Lepidoptera,Lycaenidae,Plebejus,Plebejus icarioides,,230,18-Aug,1,51
+651.2,Asteraceae,Solidago,Solidago multiradiata,Lepidoptera,Pyralidae,Speranza,Speranza simplex,f,230,18-Aug,1,51
+652.1,Asteraceae,Achillea,Achillea millefolium,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,230,18-Aug,2,49
+652.2,Asteraceae,Achillea,Achillea millefolium,Diptera,Muscidae,Drymeia,Drymeia spp.,f,230,18-Aug,2,49
+653,Saxifragaceae,Heuchera,Heuchera cylindrica,Hymenoptera,Apidae,Bombus,Bombus flavifrons,f,230,18-Aug,2,49
+654,Saxifragaceae,Saxifraga,Saxifraga bronchialis,Diptera,Sarcophagidae,miltogramminae,Miltogramminae sp.1,f,230,18-Aug,2,49
+656.1,Asteraceae,Solidago,Solidago multiradiata,Diptera,Anthomyiidae,Botanophila,Botanophila sp.4,f,230,18-Aug,2,49
+656.2,Asteraceae,Solidago,Solidago multiradiata,Diptera,Muscidae,Drymeia,Drymeia spp.,f,230,18-Aug,2,49
+656.3,Asteraceae,Solidago,Solidago multiradiata,Diptera,Muscidae,Drymeia,Drymeia spp.,f,230,18-Aug,2,49
+656.4,Asteraceae,Solidago,Solidago multiradiata,Diptera,Muscidae,Hydrotaea,Hydrotaea sp.1,f,230,18-Aug,2,49
+656.5,Asteraceae,Solidago,Solidago multiradiata,Diptera,Tachinidae,Tachinid gen.,Tachinid spp.,f,230,18-Aug,2,49
+656.6,Asteraceae,Solidago,Solidago multiradiata,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,230,18-Aug,2,49
+657,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Muscidae,Drymeia,Drymeia spp.,f,230,18-Aug,2,49
+658,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,230,18-Aug,3,35
+659.1,Asteraceae,Achillea,Achillea millefolium,Diptera,Anthomyiidae,Anthomyia,Anthomyia sp.1,m,230,18-Aug,3,35
+659.2,Asteraceae,Achillea,Achillea millefolium,Diptera,Muscidae,Phaonia,Phaonia monticola,f,230,18-Aug,3,35
+660.1,Asteraceae,Arnica,Arnica chamissonis,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,230,18-Aug,3,35
+660.2,Asteraceae,Arnica,Arnica chamissonis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,230,18-Aug,3,35
+661,Asteraceae,Senecio,Senecio triangularis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,230,18-Aug,3,35
+663,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,230,18-Aug,3,35
+664,Liliaceae,Allium,Allium cernuum,Hymenoptera,Apidae,Bombus,Bombus flavifrons,f,230,18-Aug,3,35
+665.1,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Muscidae,Drymeia,Drymeia c.f. minor,m,230,18-Aug,3,35
+665.2,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Muscidae,Drymeia,Drymeia spp.,f,230,18-Aug,3,35
+666,Asteraceae,Erigeron,Erigeron peregrinus,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,232,20-Aug,1,29
+667,Caryophyllaceae,Cerastium,Cerastium beeringianum,Diptera,Muscidae,Drymeia,Drymeia spp.,f,232,20-Aug,1,29
+668..1,Gentianaceae,Gentianella,Gentianella amarella,Diptera,Syrphidae,Eupeodes,Eupeodes lapponicus,f,232,20-Aug,1,29
+668..2,Caryophyllaceae,Arenaria,Arenaria capillaris,Diptera,Syrphidae,Eupeodes,Eupeodes lapponicus,f,232,20-Aug,1,29
+669.1,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,232,20-Aug,1,29
+669.2,Rosaceae,Potentilla,Potentilla diversifolia,Diptera,Muscidae,Drymeia,Drymeia spp.,f,232,20-Aug,1,29
+670,Asteraceae,Senecio,Senecio triangularis,Lepidoptera,Noctuidae,Lasionycta,Lasionycta impingens,,232,20-Aug,1,29
+671,Asteraceae,Senecio,Senecio triangularis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,232,20-Aug,1,29
+672,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,232,20-Aug,2,36
+673.1,Asteraceae,Senecio,Senecio triangularis,Diptera,Anthomyiidae,Botanophila,Botanophila sp.4,f,232,20-Aug,2,36
+673.2,Asteraceae,Senecio,Senecio triangularis,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,232,20-Aug,2,36
+674,Fabaceae,Astragalus,Hedysarum sulphurescens,Hymenoptera,Apidae,Bombus,Bombus flavifrons,f,232,20-Aug,2,36
+675.1,Scrophulariaceae,Penstemon,Penstemon procerus,Hymenoptera,Apidae,Bombus,Bombus flavifrons,f,232,20-Aug,2,36
+676,Asteraceae,Senecio,Senecio triangularis,Hymenoptera,Apidae,Bombus,Bombus mixtus,m,232,20-Aug,3,93
+677,Asteraceae,Achillea,Achillea millefolium,Coleoptera,Carabidae,Carabidae gen.1,Carabidae sp.1,,232,20-Aug,3,93
+678,Asteraceae,Erigeron,Erigeron peregrinus,Lepidoptera,Hesperiidae,Pyrgus,Pyrgus ruralis,,232,20-Aug,3,93
+679,Asteraceae,Achillea,Achillea millefolium,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,236,24-Aug,1,57
+680,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Anthomyiidae,Anthomyia,Anthomyia sp.1,m,236,24-Aug,1,57
+681.1,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Muscidae,Drymeia,Drymeia spp.,f,236,24-Aug,1,57
+681.2,Rosaceae,Potentilla,Potentilla fruticosa,Diptera,Muscidae,Drymeia,Drymeia spp.,f,236,24-Aug,1,57
+681.3,Rosaceae,Potentilla,Potentilla fruticosa,Hemiptera,Hemiptera fam.,Hemiptera gen.,Hemiptera sp.3,,236,24-Aug,1,57
+682,Crassulaceae,Sedum,Sedum lanceolata,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,236,24-Aug,1,57
+683,Gentianaceae,Gentianella,Gentianella amarella,Hymenoptera,Apidae,Bombus,Bombus flavifrons,f,236,24-Aug,1,57
+684,Gentianaceae,Gentianella,Gentianella amarella,Diptera,Syrphidae,Eupeodes,Eupeodes lapponicus,m,236,24-Aug,2,26
+685.1,Asteraceae,Senecio,Unk. Groundsel,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,236,24-Aug,2,26
+685.2,Asteraceae,Senecio,Unk. Groundsel,Diptera,Anthomyiidae,Paregle/Adia,Paregle/Adia sp.5,f,236,24-Aug,2,26
+685.3,Asteraceae,Senecio,Unk. Groundsel,Diptera,Muscidae,Phaonia,Phaonia monticola,m,236,24-Aug,2,26
+686,Asteraceae,Senecio,Senecio triangularis,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,236,24-Aug,2,26
+688,Asteraceae,Achillea,Achillea millefolium,Lepidoptera,Tortricidae,Eana,Eana osseana,f,236,24-Aug,2,26
+689,Gentianaceae,Gentianella,Gentianella amarella,Hymenoptera,Apidae,Bombus,Bombus flavifrons,f,236,24-Aug,2,26
+690,Asteraceae,Arnica,Arnica chamissonis,Lepidoptera,Nymphalidae,Euphydryas,Euphydryas anicia,,236,24-Aug,2,26
+691,Asteraceae,Arnica,Arnica chamissonis,Diptera,Muscidae,Drymeia,Drymeia spp.,f,236,24-Aug,3,42
+692,Liliaceae,Zigadenus,Zigadenus elegans,Diptera,Muscidae,Thricops,Thricops c.f. innocuus,f,236,24-Aug,3,42
+693.1,Saxifragaceae,Heuchera,Heuchera cylindrica,Hymenoptera,Apidae,Bombus,Bombus flavifrons,f,236,24-Aug,3,42
+693.2,Saxifragaceae,Heuchera,Heuchera cylindrica,Hymenoptera,Apidae,Bombus,Bombus flavifrons,f,236,24-Aug,3,42
+693.3,Saxifragaceae,Heuchera,Heuchera cylindrica,Hymenoptera,Apidae,Bombus,Bombus flavifrons,f,236,24-Aug,3,42
+694,Asteraceae,Solidago,Solidago multiradiata,Lepidoptera,Crambidae,Pyla,Pyla spp.,f,236,24-Aug,3,42
+695,Caryophyllaceae,Cerastium,Cerastium beeringianum,Diptera,Muscidae,Drymeia,Drymeia spp.,f,238,26-Aug,1,81
+696,Asteraceae,Achillea,Achillea millefolium,Diptera,Syrphidae,Syrphus,Syrphus ribesii,m,238,26-Aug,1,81
+697,Gentianaceae,Gentianella,Gentianella amarella,Hymenoptera,Apidae,Bombus,Bombus mixtus,f,238,26-Aug,1,81
+698.1,Asteraceae,Achillea,Achillea millefolium,Diptera,Muscidae,Thricops,Thricops c.f. septentrionalis,f,238,26-Aug,2,58
+698.2,Asteraceae,Achillea,Achillea millefolium,Diptera,Tachinidae,Chaetovoria,Chaetovoria seriata,f,238,26-Aug,2,58
+698.3,Asteraceae,Achillea,Achillea millefolium,Diptera,Syrphidae,Eristalis,Eristalis tenax,f,238,26-Aug,2,58
+699,Asteraceae,Erigeron,Erigeron peregrinus,Diptera,Syrphidae,Eupeodes,Eupeodes lapponicus,m,238,26-Aug,3,74
+700,Asteraceae,Solidago,Solidago multiradiata,Hymenoptera,Apidae,Bombus,Bombus mixtus,m,238,26-Aug,3,74
+,,,,,,,,,,,,
+Note: Sample #'s with decimals indiate multiple flower visits by the same individual insect,,,,,,,,,,,,
