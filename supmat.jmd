@@ -1,6 +1,6 @@
 ---
 title : OTSIN supplementary materials
-author : Michiel Stock, Timothée Poisot, Bernard De Baets
+author : Michiel Stock, Timothée Poisot and Bernard De Baets
 date: April 2020
 ---
 
@@ -38,7 +38,7 @@ a, b = sum(P, dims=2), sum(P, dims=1);
 We do not have a utility matrix $M$. Let us suppose that interactions that occur twice have a utility of 1 and 0 else wise. In practice, this matrix is known based on expert knowledge, or has to be fitted using the coupling.
 
 ```julia
-M = 1.0(Y .>= 1)
+M = 1.0(Y .≥ 2)
 ```
 
 ```julia; echo=false
@@ -51,7 +51,12 @@ heatmap(M, title="assumed utility M"))
 
 Given a utility matrix $M$, we can compute observed couplings $Q$, depending on whether we keep both $\mathbf{a}$ and $\mathbf{b}$ fixed, only $\mathbf{a}$, only $\mathbf{b}$ or none.
 
-ADD TABLE here
+| Conditions | constraints | solution form |
+| ----- | ----- | --- |
+| $A$, $B$ fixed | $Q\in U(\mathbf{a},\mathbf{b})$ | $(Q^\star_{\mathbf{a},\mathbf{b}})_{ij} = \alpha_i\beta_j\exp(\lambda M_{ij})$ |
+| $A$ fixed, $B$ free | $Q_{ij}\geq 0, \sum_j Q_{ij} = a_i$ | $(Q^\star_{\mathbf{a}})_{ij} = \alpha_i\exp(\lambda M_{ij})$ |
+| $A$ free, $B$ fixed | $Q_{ij}\geq 0, \sum_i Q_{ij} = b_j$ | $(Q^\star_{\mathbf{b}})_{ij} = \beta_j\exp(\lambda M_{ij})$  |
+| $A$, $B$ free | $Q_{ij}\geq 0, \sum_{i,j} Q_{ij} = 1$ | $(Q^\star)_{ij} = \delta \exp(\lambda M_{ij})$ |
 
 ## No marginals fixed
 
@@ -251,10 +256,10 @@ $$
 with
 
 $$
-K_{ij} = \exp{\lambda M_{ij}}\,.
+K_{ij} = \exp(\lambda M_{ij},)\,.
 $$
 
-Thus, one has to find two matrices $U\in\mathbb{R}^{n\times o}_+$ and $V\in\mathbb{R}^{m\times o}_+$ which ensure that the couplings are appropriately scaled. This can be done by the algorithm below.
+Thus, one has to find two matrices $U\in\mathbb{R}^{n\times o}_+$ and $V\in\mathbb{R}^{m\times o}_+$ that ensure that the couplings are appropriately scaled. This can be done by the algorithm below.
 
 ```julia
 function parallel_sinkhorn(M, A, B; λ=1, nsteps=10)
