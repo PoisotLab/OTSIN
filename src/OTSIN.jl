@@ -8,6 +8,7 @@ include("fitting.jl")
 include("utils.jl")
 include("perturbation.jl")
 include("posterior.jl")
+include("plotting.jl")
 
 export isprobability, marginals
 export optimaltransport
@@ -19,5 +20,6 @@ export perturbation, pert_utility, pert_entropy
 export parallel_cross_entropy, parallel_cross_entropy_A, parallel_cross_entropy_B,
         parallel_cross_entropy_free
 export laplace_posterior
+export marginalsheatmap
 
 end # module
